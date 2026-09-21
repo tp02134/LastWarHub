@@ -1,4 +1,4 @@
-param([int]$Port = 8080)
+﻿param([int]$Port = 8080)
 $ErrorActionPreference='Stop'
 $root=Split-Path $PSScriptRoot -Parent
 $dataDir=Join-Path $root 'data'
@@ -39,7 +39,7 @@ try{
     if(Test-Path $stopPath){throw 'Share link creation was cancelled.'}
     Remove-Item -LiteralPath $outLog,$errorLog -Force -ErrorAction SilentlyContinue
     Publish 'starting' '임시 공유 링크를 만들고 있습니다.'
-    $process=Start-Process -FilePath $exe -WindowStyle Hidden -PassThru -ArgumentList @('tunnel','--url',"http://127.0.0.1:$Port") -RedirectStandardOutput $outLog -RedirectStandardError $errorLog
+    $process=Start-Process -FilePath $exe -WindowStyle Hidden -PassThru -ArgumentList @('tunnel','--url',"http://127.0.0.1:$Port",'--http-host-header',"localhost:$Port") -RedirectStandardOutput $outLog -RedirectStandardError $errorLog
     Set-Content -LiteralPath $pidPath -Value $process.Id -Encoding ASCII
     for($i=0;$i -lt 120;$i++){
         if(Test-Path $stopPath){throw 'Share link creation was cancelled.'}
