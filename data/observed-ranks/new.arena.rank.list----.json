@@ -1,0 +1,198 @@
+﻿{
+    "p":  {
+              "p":  {
+                        "defLoseTimes":  0,
+                        "remainPraise":  0,
+                        "curScore":  0,
+                        "players":  [
+                                        {
+                                            "uid":  "1971911175001999",
+                                            "score":  1723,
+                                            "playerInfo":  {
+                                                               "careerType":  102,
+                                                               "gender":  0,
+                                                               "countryflag":  "US",
+                                                               "pic":  "",
+                                                               "picver":  343,
+                                                               "serverId":  1999,
+                                                               "svipLevel":  17,
+                                                               "allianceId":  "8c125a2dad024e7492fc425d1d0bcb98",
+                                                               "uid":  "1971911175001999",
+                                                               "srcServer":  1999,
+                                                               "careerLevel":  70,
+                                                               "name":  "YumZombiez 욤",
+                                                               "headFrame":  1,
+                                                               "allianceName":  "Řetribution",
+                                                               "power":  347073048,
+                                                               "abbr":  "ReKD"
+                                                           },
+                                            "rank":  1,
+                                            "formationPower":  50059484,
+                                            "formationSoldier":  3014,
+                                            "praise":  7427,
+                                            "soldierEleven":  {
+                                                                  "stage":  0,
+                                                                  "effectMap":  ""
+                                                              }
+                                        },
+                                        {
+                                            "uid":  "1138929933002004",
+                                            "score":  1711,
+                                            "playerInfo":  {
+                                                               "careerType":  102,
+                                                               "gender":  1,
+                                                               "countryflag":  "US",
+                                                               "pic":  "",
+                                                               "picver":  2798,
+                                                               "serverId":  2004,
+                                                               "svipLevel":  17,
+                                                               "allianceId":  "73bea79df86e44ca812612bba7f999f9",
+                                                               "uid":  "1138929933002004",
+                                                               "srcServer":  2004,
+                                                               "careerLevel":  70,
+                                                               "name":  "Wítcher",
+                                                               "headFrame":  1,
+                                                               "allianceName":  "The House of Coffee",
+                                                               "power":  304571546,
+                                                               "abbr":  "THoC"
+                                                           },
+                                            "rank":  2,
+                                            "formationPower":  47451754,
+                                            "formationSoldier":  3014,
+                                            "praise":  6864,
+                                            "soldierEleven":  {
+                                                                  "stage":  0,
+                                                                  "effectMap":  ""
+                                                              }
+                                        },
+                                        {
+                                            "uid":  "1833496775002009",
+                                            "score":  1616,
+                                            "playerInfo":  {
+                                                               "careerType":  102,
+                                                               "headSkinET":  0,
+                                                               "gender":  0,
+                                                               "countryflag":  "KR",
+                                                               "pic":  "",
+                                                               "picver":  1,
+                                                               "serverId":  2009,
+                                                               "svipLevel":  16,
+                                                               "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                                                               "uid":  "1833496775002009",
+                                                               "srcServer":  2009,
+                                                               "chatBubbleId":  50004,
+                                                               "headSkinId":  25000,
+                                                               "careerLevel":  69,
+                                                               "name":  "JSSJ2026",
+                                                               "headFrame":  1,
+                                                               "allianceName":  "Resistance 저항",
+                                                               "chatBubbleET":  0,
+                                                               "power":  261300995,
+                                                               "abbr":  "DEFl"
+                                                           },
+                                            "rank":  3,
+                                            "formationPower":  43078212,
+                                            "formationSoldier":  3014,
+                                            "praise":  2169,
+                                            "soldierEleven":  {
+                                                                  "stage":  0,
+                                                                  "effectMap":  ""
+                                                              }
+                                        }
+                                    ],
+                        "showTime":  1788746400000,
+                        "dailyReward":  [
+                                            {
+                                                "reward":  [
+                                                               {
+                                                                   "type":  7,
+                                                                   "value":  {
+                                                                                 "num":  2,
+                                                                                 "id":  "520001"
+                                                                             }
+                                                               },
+                                                               {
+                                                                   "type":  40,
+                                                                   "value":  200
+                                                               },
+                                                               {
+                                                                   "type":  5,
+                                                                   "value":  20
+                                                               }
+                                                           ],
+                                                "needCount":  1,
+                                                "rewarded":  0
+                                            },
+                                            {
+                                                "reward":  [
+                                                               {
+                                                                   "type":  7,
+                                                                   "value":  {
+                                                                                 "num":  4,
+                                                                                 "id":  "520001"
+                                                                             }
+                                                               },
+                                                               {
+                                                                   "type":  40,
+                                                                   "value":  200
+                                                               },
+                                                               {
+                                                                   "type":  5,
+                                                                   "value":  40
+                                                               }
+                                                           ],
+                                                "needCount":  3,
+                                                "rewarded":  0
+                                            },
+                                            {
+                                                "reward":  [
+                                                               {
+                                                                   "type":  7,
+                                                                   "value":  {
+                                                                                 "num":  4,
+                                                                                 "id":  "520001"
+                                                                             }
+                                                               },
+                                                               {
+                                                                   "type":  7,
+                                                                   "value":  {
+                                                                                 "num":  1,
+                                                                                 "id":  "990019"
+                                                                             }
+                                                               },
+                                                               {
+                                                                   "type":  40,
+                                                                   "value":  300
+                                                               },
+                                                               {
+                                                                   "type":  5,
+                                                                   "value":  40
+                                                               }
+                                                           ],
+                                                "needCount":  5,
+                                                "rewarded":  0
+                                            }
+                                        ],
+                        "praiseNum":  0,
+                        "server_arr":  [
+                                           2018,
+                                           2009,
+                                           2004,
+                                           1999
+                                       ],
+                        "formationPower":  0,
+                        "formationSoldier":  3014,
+                        "curRank":  0,
+                        "battleTimes":  10,
+                        "startTime":  1788746400000,
+                        "endTime":  1789351200000,
+                        "_id":  1926,
+                        "arenaType":  2,
+                        "_time":  15,
+                        "battleCount":  0
+                    },
+              "c":  "new.arena.rank.list"
+          },
+    "a":  13,
+    "c":  1
+}

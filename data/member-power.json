@@ -1,0 +1,802 @@
+﻿{
+    "capturedAt":  "2026-09-21T16:26:15.1091822+09:00",
+    "serverId":  0,
+    "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+    "alliance":  "DEFl",
+    "allianceName":  "Resistance 저항",
+    "source":  "al.rank/list/power",
+    "rows":  [
+                 {
+                     "uid":  "1105149285002009",
+                     "name":  "루이୨୧ louis",
+                     "alliance":  "DEFl",
+                     "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                     "power":  82828832,
+                     "serverId":  2009
+                 },
+                 {
+                     "uid":  "1350762850002009",
+                     "name":  "Sparta2966",
+                     "alliance":  "DEFl",
+                     "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                     "power":  157609178,
+                     "serverId":  2009
+                 },
+                 {
+                     "uid":  "1908664231002009",
+                     "name":  "Blood Angel AB",
+                     "alliance":  "DEFl",
+                     "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                     "power":  107106945,
+                     "serverId":  2009
+                 },
+                 {
+                     "uid":  "1291183795002009",
+                     "name":  "단비 FreeM",
+                     "alliance":  "DEFl",
+                     "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                     "power":  132203383,
+                     "serverId":  2009
+                 },
+                 {
+                     "uid":  "1513152871002009",
+                     "name":  "ADMIN V",
+                     "alliance":  "DEFl",
+                     "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                     "power":  157041167,
+                     "serverId":  2009
+                 },
+                 {
+                     "uid":  "1868610843002009",
+                     "name":  "Dragonfly5280",
+                     "alliance":  "DEFl",
+                     "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                     "power":  177101261,
+                     "serverId":  2009
+                 },
+                 {
+                     "uid":  "1955858114002009",
+                     "name":  "Guapo III",
+                     "alliance":  "DEFl",
+                     "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                     "power":  194005354,
+                     "serverId":  2009
+                 },
+                 {
+                     "uid":  "1238891291002009",
+                     "name":  "뚤ddulღ",
+                     "alliance":  "DEFl",
+                     "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                     "power":  163108121,
+                     "serverId":  2009
+                 },
+                 {
+                     "uid":  "1759318546002009",
+                     "name":  "원oneღ",
+                     "alliance":  "DEFl",
+                     "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                     "power":  150069445,
+                     "serverId":  2009
+                 },
+                 {
+                     "uid":  "1032401035002009",
+                     "name":  "볼보 8115 volvo",
+                     "alliance":  "DEFl",
+                     "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                     "power":  105656346,
+                     "serverId":  2009
+                 },
+                 {
+                     "uid":  "1042924500002009",
+                     "name":  "God   Of   War",
+                     "alliance":  "DEFl",
+                     "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                     "power":  127376323,
+                     "serverId":  2009
+                 },
+                 {
+                     "uid":  "1112205467002009",
+                     "name":  "TheeNAMEless",
+                     "alliance":  "DEFl",
+                     "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                     "power":  135860495,
+                     "serverId":  2009
+                 },
+                 {
+                     "uid":  "1127048012002009",
+                     "name":  "Nvsuccess",
+                     "alliance":  "DEFl",
+                     "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                     "power":  102418682,
+                     "serverId":  2009
+                 },
+                 {
+                     "uid":  "1252757549002009",
+                     "name":  "호세카 hosecar",
+                     "alliance":  "DEFl",
+                     "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                     "power":  132609405,
+                     "serverId":  2009
+                 },
+                 {
+                     "uid":  "1353411104002009",
+                     "name":  "Crunk Jr",
+                     "alliance":  "DEFl",
+                     "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                     "power":  112506672,
+                     "serverId":  2009
+                 },
+                 {
+                     "uid":  "1408507824002009",
+                     "name":  "Porkchop Warrior",
+                     "alliance":  "DEFl",
+                     "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                     "power":  157850125,
+                     "serverId":  2009
+                 },
+                 {
+                     "uid":  "1794408508002009",
+                     "name":  "STRATIX 360",
+                     "alliance":  "DEFl",
+                     "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                     "power":  117586725,
+                     "serverId":  2009
+                 },
+                 {
+                     "uid":  "1841136973002009",
+                     "name":  "junior1087",
+                     "alliance":  "DEFl",
+                     "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                     "power":  103644467,
+                     "serverId":  2009
+                 },
+                 {
+                     "uid":  "1864788746002009",
+                     "name":  "ChKnMcStu 卡津",
+                     "alliance":  "DEFl",
+                     "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                     "power":  140404354,
+                     "serverId":  2009
+                 },
+                 {
+                     "uid":  "1880001838002009",
+                     "name":  "카키kaki",
+                     "alliance":  "DEFl",
+                     "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                     "power":  72096283,
+                     "serverId":  2009
+                 },
+                 {
+                     "uid":  "1895981985002009",
+                     "name":  "Magician 쿠",
+                     "alliance":  "DEFl",
+                     "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                     "power":  132406273,
+                     "serverId":  2009
+                 },
+                 {
+                     "uid":  "1912489501002009",
+                     "name":  "풀잎love",
+                     "alliance":  "DEFl",
+                     "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                     "power":  184077739,
+                     "serverId":  2009
+                 },
+                 {
+                     "uid":  "1955717408002009",
+                     "name":  "Prome42",
+                     "alliance":  "DEFl",
+                     "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                     "power":  139942263,
+                     "serverId":  2009
+                 },
+                 {
+                     "uid":  "1955840422002009",
+                     "name":  "Juniper Skye MurrOW",
+                     "alliance":  "DEFl",
+                     "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                     "power":  112515103,
+                     "serverId":  2009
+                 },
+                 {
+                     "uid":  "2168179349002009",
+                     "name":  "PORKYWAFFLE",
+                     "alliance":  "DEFl",
+                     "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                     "power":  87298935,
+                     "serverId":  2009
+                 },
+                 {
+                     "uid":  "2200388647002009",
+                     "name":  "Tiffyspurg",
+                     "alliance":  "DEFl",
+                     "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                     "power":  130845853,
+                     "serverId":  2009
+                 },
+                 {
+                     "uid":  "1047789677002009",
+                     "name":  "Fugarewe",
+                     "alliance":  "DEFl",
+                     "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                     "power":  107432093,
+                     "serverId":  2009
+                 },
+                 {
+                     "uid":  "1086099410002001",
+                     "name":  "Ravėn",
+                     "alliance":  "DEFl",
+                     "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                     "power":  94772807,
+                     "serverId":  2009
+                 },
+                 {
+                     "uid":  "1113719835002009",
+                     "name":  "kdashh22",
+                     "alliance":  "DEFl",
+                     "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                     "power":  120662920,
+                     "serverId":  2009
+                 },
+                 {
+                     "uid":  "1171733078002009",
+                     "name":  "FLuFFy 멍멍",
+                     "alliance":  "DEFl",
+                     "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                     "power":  126302591,
+                     "serverId":  2009
+                 },
+                 {
+                     "uid":  "1181086471002009",
+                     "name":  "카두바 caduba",
+                     "alliance":  "DEFl",
+                     "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                     "power":  112529782,
+                     "serverId":  2009
+                 },
+                 {
+                     "uid":  "1217994156002009",
+                     "name":  "5H13LDUR53LF",
+                     "alliance":  "DEFl",
+                     "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                     "power":  142626095,
+                     "serverId":  2009
+                 },
+                 {
+                     "uid":  "1230726778002009",
+                     "name":  "Versace club",
+                     "alliance":  "DEFl",
+                     "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                     "power":  136124566,
+                     "serverId":  2009
+                 },
+                 {
+                     "uid":  "1418302934002009",
+                     "name":  "AccuracY",
+                     "alliance":  "DEFl",
+                     "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                     "power":  69956301,
+                     "serverId":  2009
+                 },
+                 {
+                     "uid":  "1465387733002009",
+                     "name":  "Sal51",
+                     "alliance":  "DEFl",
+                     "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                     "power":  131038707,
+                     "serverId":  2009
+                 },
+                 {
+                     "uid":  "1501336988002009",
+                     "name":  "Poochucker",
+                     "alliance":  "DEFl",
+                     "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                     "power":  157449798,
+                     "serverId":  2009
+                 },
+                 {
+                     "uid":  "1597493214002001",
+                     "name":  "Lord Hulkster",
+                     "alliance":  "DEFl",
+                     "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                     "power":  112181749,
+                     "serverId":  2009
+                 },
+                 {
+                     "uid":  "1648780819002009",
+                     "name":  "Glockmeep",
+                     "alliance":  "DEFl",
+                     "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                     "power":  122135831,
+                     "serverId":  2009
+                 },
+                 {
+                     "uid":  "1782850244002009",
+                     "name":  "Santtos7",
+                     "alliance":  "DEFl",
+                     "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                     "power":  115398342,
+                     "serverId":  2009
+                 },
+                 {
+                     "uid":  "1879664984002009",
+                     "name":  "pretty 이쁜엿옹",
+                     "alliance":  "DEFl",
+                     "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                     "power":  158139264,
+                     "serverId":  2009
+                 },
+                 {
+                     "uid":  "1955815283002009",
+                     "name":  "OGStoltz77",
+                     "alliance":  "DEFl",
+                     "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                     "power":  112717369,
+                     "serverId":  2009
+                 },
+                 {
+                     "uid":  "1955890708002009",
+                     "name":  "Nuke Doctor",
+                     "alliance":  "DEFl",
+                     "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                     "power":  142167783,
+                     "serverId":  2009
+                 },
+                 {
+                     "uid":  "1956372992002009",
+                     "name":  "SilentCircus",
+                     "alliance":  "DEFl",
+                     "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                     "power":  169623462,
+                     "serverId":  2009
+                 },
+                 {
+                     "uid":  "2167178556002009",
+                     "name":  "YïppeeKïYAY MF",
+                     "alliance":  "DEFl",
+                     "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                     "power":  138911879,
+                     "serverId":  2009
+                 },
+                 {
+                     "uid":  "1018658388002009",
+                     "name":  "LĘE Şeúng Ĥun",
+                     "alliance":  "DEFl",
+                     "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                     "power":  166423782,
+                     "serverId":  2009
+                 },
+                 {
+                     "uid":  "1039210403002009",
+                     "name":  "보조개 Witch",
+                     "alliance":  "DEFl",
+                     "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                     "power":  192118266,
+                     "serverId":  2009
+                 },
+                 {
+                     "uid":  "1042263425002009",
+                     "name":  "Kor Devil",
+                     "alliance":  "DEFl",
+                     "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                     "power":  144378932,
+                     "serverId":  2009
+                 },
+                 {
+                     "uid":  "1155608505002009",
+                     "name":  "Beat It",
+                     "alliance":  "DEFl",
+                     "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                     "power":  160054874,
+                     "serverId":  2009
+                 },
+                 {
+                     "uid":  "1156831515002009",
+                     "name":  "GhostTaxi  령",
+                     "alliance":  "DEFl",
+                     "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                     "power":  134172086,
+                     "serverId":  2009
+                 },
+                 {
+                     "uid":  "1169494008002001",
+                     "name":  "Stephy0255",
+                     "alliance":  "DEFl",
+                     "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                     "power":  144919187,
+                     "serverId":  2009
+                 },
+                 {
+                     "uid":  "1207146206002009",
+                     "name":  "NicocoLetsGoPSG",
+                     "alliance":  "DEFl",
+                     "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                     "power":  137203404,
+                     "serverId":  2009
+                 },
+                 {
+                     "uid":  "1220371996002009",
+                     "name":  "Xxpacifist",
+                     "alliance":  "DEFl",
+                     "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                     "power":  146351480,
+                     "serverId":  2009
+                 },
+                 {
+                     "uid":  "1243117540002009",
+                     "name":  "MetalFace Stone",
+                     "alliance":  "DEFl",
+                     "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                     "power":  149843357,
+                     "serverId":  2009
+                 },
+                 {
+                     "uid":  "1249945547002009",
+                     "name":  "IJONASI 이죠나시",
+                     "alliance":  "DEFl",
+                     "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                     "power":  187665652,
+                     "serverId":  2009
+                 },
+                 {
+                     "uid":  "1282191033001997",
+                     "name":  "Masterball1",
+                     "alliance":  "DEFl",
+                     "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                     "power":  129007414,
+                     "serverId":  2009
+                 },
+                 {
+                     "uid":  "1284124114002009",
+                     "name":  "Kîra 키라",
+                     "alliance":  "DEFl",
+                     "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                     "power":  166276786,
+                     "serverId":  2009
+                 },
+                 {
+                     "uid":  "1335516399002009",
+                     "name":  "Stinkyf33t",
+                     "alliance":  "DEFl",
+                     "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                     "power":  154215426,
+                     "serverId":  2009
+                 },
+                 {
+                     "uid":  "1339444241002009",
+                     "name":  "Asmodean76",
+                     "alliance":  "DEFl",
+                     "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                     "power":  170888934,
+                     "serverId":  2009
+                 },
+                 {
+                     "uid":  "1396639825002009",
+                     "name":  "VenomVisíon",
+                     "alliance":  "DEFl",
+                     "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                     "power":  143514827,
+                     "serverId":  2009
+                 },
+                 {
+                     "uid":  "1398218860002009",
+                     "name":  "Junior Vorani",
+                     "alliance":  "DEFl",
+                     "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                     "power":  147763839,
+                     "serverId":  2009
+                 },
+                 {
+                     "uid":  "1412019391002009",
+                     "name":  "BoffaDozzeee です",
+                     "alliance":  "DEFl",
+                     "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                     "power":  215937056,
+                     "serverId":  2009
+                 },
+                 {
+                     "uid":  "1418400186002009",
+                     "name":  "WheresDaBeef 암소",
+                     "alliance":  "DEFl",
+                     "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                     "power":  99677841,
+                     "serverId":  2009
+                 },
+                 {
+                     "uid":  "1428508013002009",
+                     "name":  "Kredio",
+                     "alliance":  "DEFl",
+                     "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                     "power":  107800876,
+                     "serverId":  2009
+                 },
+                 {
+                     "uid":  "1493440312002009",
+                     "name":  "IArma XI",
+                     "alliance":  "DEFl",
+                     "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                     "power":  129905888,
+                     "serverId":  2009
+                 },
+                 {
+                     "uid":  "1550635285002009",
+                     "name":  "Pennah",
+                     "alliance":  "DEFl",
+                     "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                     "power":  186731123,
+                     "serverId":  2009
+                 },
+                 {
+                     "uid":  "1621795100002009",
+                     "name":  "ElusiveSavvy",
+                     "alliance":  "DEFl",
+                     "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                     "power":  166503072,
+                     "serverId":  2009
+                 },
+                 {
+                     "uid":  "1651408835002009",
+                     "name":  "Tech100",
+                     "alliance":  "DEFl",
+                     "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                     "power":  113988771,
+                     "serverId":  2009
+                 },
+                 {
+                     "uid":  "1662911906002009",
+                     "name":  "Gtoboi",
+                     "alliance":  "DEFl",
+                     "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                     "power":  155099386,
+                     "serverId":  2009
+                 },
+                 {
+                     "uid":  "1672057584002009",
+                     "name":  "johanssonfromthebtm",
+                     "alliance":  "DEFl",
+                     "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                     "power":  148622769,
+                     "serverId":  2009
+                 },
+                 {
+                     "uid":  "1683911371002009",
+                     "name":  "Random word",
+                     "alliance":  "DEFl",
+                     "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                     "power":  182840495,
+                     "serverId":  2009
+                 },
+                 {
+                     "uid":  "1687239939002009",
+                     "name":  "중융JUNGღ",
+                     "alliance":  "DEFl",
+                     "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                     "power":  188543990,
+                     "serverId":  2009
+                 },
+                 {
+                     "uid":  "1710268967002009",
+                     "name":  "PALBL0",
+                     "alliance":  "DEFl",
+                     "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                     "power":  148830460,
+                     "serverId":  2009
+                 },
+                 {
+                     "uid":  "1724153165002009",
+                     "name":  "Major Boom Shakalaka",
+                     "alliance":  "DEFl",
+                     "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                     "power":  97872290,
+                     "serverId":  2009
+                 },
+                 {
+                     "uid":  "1765321996002009",
+                     "name":  "SawGun쏘우건",
+                     "alliance":  "DEFl",
+                     "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                     "power":  238430883,
+                     "serverId":  2009
+                 },
+                 {
+                     "uid":  "1783142248002009",
+                     "name":  "Äāmøň",
+                     "alliance":  "DEFl",
+                     "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                     "power":  126037988,
+                     "serverId":  2009
+                 },
+                 {
+                     "uid":  "1798612518002009",
+                     "name":  "Abz ツ",
+                     "alliance":  "DEFl",
+                     "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                     "power":  137142357,
+                     "serverId":  2009
+                 },
+                 {
+                     "uid":  "1862845445002009",
+                     "name":  "DrDeadCatS",
+                     "alliance":  "DEFl",
+                     "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                     "power":  177103931,
+                     "serverId":  2009
+                 },
+                 {
+                     "uid":  "1881113463002009",
+                     "name":  "Advillain",
+                     "alliance":  "DEFl",
+                     "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                     "power":  173719340,
+                     "serverId":  2009
+                 },
+                 {
+                     "uid":  "1882477040002009",
+                     "name":  "IveGotBeef 햄버거",
+                     "alliance":  "DEFl",
+                     "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                     "power":  124084412,
+                     "serverId":  2009
+                 },
+                 {
+                     "uid":  "1906030159002009",
+                     "name":  "플래티넘TH",
+                     "alliance":  "DEFl",
+                     "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                     "power":  185421709,
+                     "serverId":  2009
+                 },
+                 {
+                     "uid":  "1909069627002009",
+                     "name":  "zekai66",
+                     "alliance":  "DEFl",
+                     "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                     "power":  112334267,
+                     "serverId":  2009
+                 },
+                 {
+                     "uid":  "1912186114002009",
+                     "name":  "Kung Fu Yoda",
+                     "alliance":  "DEFl",
+                     "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                     "power":  137910009,
+                     "serverId":  2009
+                 },
+                 {
+                     "uid":  "1915304141002009",
+                     "name":  "Odogg20100",
+                     "alliance":  "DEFl",
+                     "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                     "power":  152591877,
+                     "serverId":  2009
+                 },
+                 {
+                     "uid":  "1954642487002009",
+                     "name":  "StunnerOtis",
+                     "alliance":  "DEFl",
+                     "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                     "power":  158879536,
+                     "serverId":  2009
+                 },
+                 {
+                     "uid":  "1955344177002009",
+                     "name":  "BoffaDeezzz 両玉",
+                     "alliance":  "DEFl",
+                     "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                     "power":  211487795,
+                     "serverId":  2009
+                 },
+                 {
+                     "uid":  "1955756618002009",
+                     "name":  "tēēj",
+                     "alliance":  "DEFl",
+                     "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                     "power":  130860240,
+                     "serverId":  2009
+                 },
+                 {
+                     "uid":  "1955800939002009",
+                     "name":  "Jenära",
+                     "alliance":  "DEFl",
+                     "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                     "power":  170062498,
+                     "serverId":  2009
+                 },
+                 {
+                     "uid":  "1955909125002009",
+                     "name":  "Brbsmoke",
+                     "alliance":  "DEFl",
+                     "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                     "power":  127130195,
+                     "serverId":  2009
+                 },
+                 {
+                     "uid":  "1955984446002009",
+                     "name":  "Capt ジョシュ",
+                     "alliance":  "DEFl",
+                     "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                     "power":  263482041,
+                     "serverId":  2009
+                 },
+                 {
+                     "uid":  "1956065017002009",
+                     "name":  "Binxxxyy",
+                     "alliance":  "DEFl",
+                     "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                     "power":  137244610,
+                     "serverId":  2009
+                 },
+                 {
+                     "uid":  "1006520614002009",
+                     "name":  "발록 balrog",
+                     "alliance":  "DEFl",
+                     "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                     "power":  264906190,
+                     "serverId":  2009
+                 },
+                 {
+                     "uid":  "1066495923002009",
+                     "name":  "KANG편돌",
+                     "alliance":  "DEFl",
+                     "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                     "power":  173110894,
+                     "serverId":  2009
+                 },
+                 {
+                     "uid":  "1243686140002009",
+                     "name":  "p0ppa",
+                     "alliance":  "DEFl",
+                     "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                     "power":  173671809,
+                     "serverId":  2009
+                 },
+                 {
+                     "uid":  "1670546139002009",
+                     "name":  "OG COTN MFKER",
+                     "alliance":  "DEFl",
+                     "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                     "power":  195325598,
+                     "serverId":  2009
+                 },
+                 {
+                     "uid":  "1771461583002009",
+                     "name":  "Taxan Killer 에릭",
+                     "alliance":  "DEFl",
+                     "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                     "power":  289511424,
+                     "serverId":  2009
+                 },
+                 {
+                     "uid":  "1833496775002009",
+                     "name":  "JSSJ2026",
+                     "alliance":  "DEFl",
+                     "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                     "power":  242524296,
+                     "serverId":  2009
+                 },
+                 {
+                     "uid":  "1924277001002009",
+                     "name":  "EMPYRE",
+                     "alliance":  "DEFl",
+                     "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                     "power":  216873425,
+                     "serverId":  2009
+                 },
+                 {
+                     "uid":  "1956008371002009",
+                     "name":  "TowPigy",
+                     "alliance":  "DEFl",
+                     "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                     "power":  171317027,
+                     "serverId":  2009
+                 },
+                 {
+                     "uid":  "1956097545002009",
+                     "name":  "ESPN LIES 69",
+                     "alliance":  "DEFl",
+                     "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                     "power":  181631539,
+                     "serverId":  2009
+                 }
+             ]
+}

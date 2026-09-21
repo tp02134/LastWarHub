@@ -1,0 +1,67 @@
+<style>.en-line{display:block;font-size:12px;font-weight:400;line-height:1.45;letter-spacing:normal;margin-top:3px;opacity:.8;white-space:normal}h1>.en-line{font-size:17px}.column-sort>.en-line{white-space:nowrap}.account-line{color:var(--green);font-weight:700;margin-top:8px}</style>
+<script>
+(()=>{
+const translations={
+'메인 · 총영투':'Home · Hero Power','시즌':'Season','사막':'Desert','협곡':'Canyon','총 영웅 전투력':'Total Hero Power','주간 연대 점수':'Weekly Alliance Duel Score',
+'총영투 · 주간 연대 점수':'Hero Power · Weekly Alliance Duel Score','시즌 공헌':'Season Contributions','시즌 공헌 점수':'Season Contribution Scores',
+'사막전장 편성':'Desert Storm Roster','DS Battlefield 투표를 기준으로 A·B 시간대의 메인과 서브 인원을 편성합니다.':'Build the Main and Sub rosters for Times A and B from the DS Battlefield vote.',
+'DS Battlefield 편성':'DS Battlefield Roster','DS 투표 불러오기':'Load DS Vote',
+'협곡전장 편성':'Canyon Battlefield Roster','CS Battlefield 투표를 기준으로 A·B 시간대의 메인과 서브 인원을 편성합니다.':'Build the Main and Sub rosters for Times A and B from the CS Battlefield vote.',
+'상호 지원':'Mutual Support','공성':'Siege','쟁탈전':'Contestation','처치':'Kills','표시 순서':'Position','멤버':'Member','연맹':'Alliance','미확인':'Unknown',
+'사막 투표':'Desert Vote','협곡 투표':'Canyon Vote',
+'저장':'Save','로드':'Load','공유 링크 복사':'Copy Share Link','복사했습니다!':'Copied!','아직 공유 링크가 없습니다.':'No share link is available yet.','공유 주소를 불러오지 못했습니다.':'Could not load the share link.',
+'▶ 상시 수집 시작':'Start Collection','상시 수집 켜짐':'Collection Active','■ 중지':'Stop','■ 수집기 끄기':'Stop Collector',
+'데이터 불러오기':'Load Data','총영투 불러오기':'Load Hero Power','총영투·연대 점수 불러오기':'Load Hero Power · Weekly Score','시즌 점수 불러오기':'Load Season Scores','사막 데이터 불러오기':'Load Desert Data','사막 투표 불러오기':'Load Desert Vote','협곡 투표 불러오기':'Load Canyon Vote','불러오는 중…':'Loading…',
+'연맹원들의 총 영웅 전투력을 확인하세요.':'View alliance members’ total hero power.',
+'상호 지원 · 공성 · 쟁탈전 · 처치 점수를 확인하세요.':'View Mutual Support, Siege, Contestation and Kills scores.',
+'열 제목을 누르면 오름차순·내림차순으로 정렬됩니다.':'Click a column heading to switch between ascending and descending order.',
+'확인되지 않은 시즌 점수는 0으로 표시합니다.':'Unavailable season scores are shown as 0.',
+'공유용 순위표입니다. 마지막 게시 데이터를 표시합니다.':'Shared rankings showing the last published data.',
+'공유용 순위표입니다. 최신 수집 결과는 페이지를 새로고침하면 반영됩니다.':'Shared rankings. Refresh the page to see the latest collected data.',
+'상시 수집을 켜두면 게임에서 확인한 공헌 순위가 자동 반영됩니다. 시간 제한 없이 작동하며, 게임 재접속도 감지합니다.':'Keep collection running to update rankings as you view them in the game. Collection also detects game reconnections.',
+'수집 준비 중입니다. Windows 권한 확인 창이 뜨면 허용해주세요.':'Preparing collection. Allow the Windows permission prompt if it appears.',
+'수집이 끝났습니다. 순위 데이터를 정리하고 반영하고 있습니다.':'Collection finished. Processing and updating rankings.',
+'게임 연결을 기다리고 있습니다. 게임에 접속하면 자동으로 수집을 이어갑니다.':'Waiting for the game. Collection resumes automatically when you connect.',
+'수집 연결을 다시 확인하고 있습니다. 연결이 복구되면 자동으로 이어집니다.':'Reconnecting. Collection will resume automatically.',
+'상시 수집을 중지했습니다. 저장된 순위는 계속 볼 수 있습니다.':'Collection stopped. Saved rankings remain available.',
+'새 공헌 순위 응답이 없어 이전 데이터를 유지했습니다. 다시 수집하며 게임의 순위 탭을 열어주세요.':'No new contribution rankings received. Previous data is retained. Open the ranking tabs while collecting.',
+'동기화를 완료하지 못했습니다. 게임 실행 상태와 Windows 권한 승인을 확인한 뒤 다시 시도해주세요.':'Sync failed. Check the game and Windows permissions, then try again.',
+'로컬 서버 연결을 확인하고 있습니다…':'Checking the local server connection…',
+'수집을 중지하고 있습니다…':'Stopping collection…','중지 요청을 전달하지 못했습니다. 다시 시도해주세요.':'Could not stop collection. Please try again.',
+'자동 수집은 http://localhost:8080 에서 사용할 수 있습니다.':'Automatic collection is available at http://localhost:8080.',
+'현재 웹 탭의 데이터 불러오기 버튼을 누른 뒤 안내된 게임 화면을 다시 열어주세요.':'Select Load Data on the current web tab, then reopen the indicated game screen.',
+'게임의 사막전장 탭을 다시 열어주세요. 총 영웅 전투력이 감지되면 바로 반영됩니다.':'Reopen the Desert Battlefield tab in the game. Total Hero Power updates as soon as it is detected.',
+'게임의 사막전장 탭과 연대 주간 점수 화면을 각각 다시 열어주세요. 두 패킷의 수신 상태가 아래에 표시됩니다.':'Reopen the Desert Battlefield tab and the Weekly Alliance Duel Score screen. The status of both packets appears below.',
+'게임의 시즌 공헌 순위 화면을 차례로 다시 열어주세요. 감지된 점수부터 바로 반영됩니다.':'Reopen each Season Contribution ranking screen in the game. Detected scores update immediately.',
+'채팅의 DS Battlefield 투표 또는 사막전장 탭을 다시 열어주세요. 감지된 데이터가 바로 반영됩니다.':'Reopen the DS Battlefield vote in chat or the Desert Battlefield tab. Detected data updates immediately.',
+'채팅의 DS Battlefield 투표를 다시 열어주세요. 투표 패킷이 감지되면 참여 인원을 바로 편성합니다.':'Reopen the DS Battlefield vote in chat. Participants are assigned as soon as the vote packet is detected.',
+'채팅의 CS Battlefield 투표를 다시 열어주세요. 투표 패킷이 감지되면 참여 인원을 바로 편성합니다.':'Reopen the CS Battlefield vote in chat. Participants are assigned as soon as the vote packet is detected.',
+'수집기 준비 완료 · 데이터 불러오기를 누르면 현재 탭에 필요한 게임 화면을 안내합니다.':'Collector ready. Select Load Data for instructions for the current tab.',
+'조건에 맞는 멤버가 없습니다. 검색어나 연맹을 바꿔보세요.':'No matching members. Change the search or alliance filter.'
+};
+function english(text,el){
+ if(el.id==='account-context'&&accountData.uid)return 'Server '+accountData.serverId+' · Current alliance '+(accountData.alliance||'Checking')+(accountData.allianceName?' ('+accountData.allianceName+')':'');
+ if(el.id==='account-context')return 'Waiting for account information';
+ if(translations[text])return translations[text];
+ if(el.matches('footer'))return 'Members are based on the collected alliance roster. Other alliances show only collected ranking entries. Unavailable hero power is marked Unknown; unavailable contribution scores are shown and sorted as 0. Names and alliances follow the collected roster.';
+ if(el.matches('main>div.note'))return 'Contribution rankings for Mutual Support, Siege, Contestation and Kills. The reporting period is being verified; totals and averages apply to the selected category.';
+ if(el.id==='count')return text.replace(/([\d,]+)명/,'$1 members').replace('전체 연맹','All alliances');
+ if(el.id==='updated-at'&&text)return 'Hero power collected · '+new Date(heroData.capturedAt).toLocaleString('en-US',{timeZone:'Asia/Seoul'})+' KST';
+ if(text.startsWith('상시 수집 중'))return 'Collecting · '+text.match(/[\d,]+/g)?.slice(0,2).join(' packets / ')+' responses. Open ranking tabs in the game to update.';
+ if(text.startsWith('수집 중 ·'))return 'Collecting · '+text.match(/\d+/)?.[0]+' seconds left. Open the four contribution ranking tabs.';
+ if(text.startsWith('갱신 완료'))return 'Update complete. Categories not opened retain their previous data.';
+ return '';
+}
+function apply(){
+ observer.disconnect();
+ document.querySelectorAll('.page-tabs button,h1,.intro,#account-context,#heading,#count,#updated-at,#copy-share,#share-feedback,#sync,#stop-sync,#sync-status,main>.note,footer,.foot>span,#thead th:not(:has(button)),.column-sort,#tbody .empty,#tbody .meta,#tbody td.num').forEach(el=>{
+  if(el.matches('.note')&&el.querySelector('#sync-status'))return;
+  el.querySelectorAll(':scope>.en-line').forEach(n=>n.remove());
+  const text=el.textContent.trim().replace(/\s*[↑↓↕]$/,'');const translated=english(text,el);
+  if(translated){const line=document.createElement('span');line.className='en-line';line.lang='en';line.textContent=translated;el.append(line)}
+ });
+ observer.observe(document.body,{childList:true,subtree:true,characterData:true});
+}
+const observer=new MutationObserver(apply);apply();
+})();
+</script>

@@ -1,0 +1,315 @@
+﻿{
+    "p":  {
+              "p":  {
+                        "data":  [
+                                     {
+                                         "ranking":  [
+                                                         {
+                                                             "uid":  "263e0544c844428aa654a9142dd90fd2",
+                                                             "leader":  "ESPN LIES 69",
+                                                             "country":  "UN",
+                                                             "srcServer":  2009,
+                                                             "curMember":  99,
+                                                             "maxMember":  100,
+                                                             "alliancename":  "Resistance 저항",
+                                                             "icon":  "6",
+                                                             "abbr":  "DEFl",
+                                                             "nums":  99,
+                                                             "armyKill":  "436433424"
+                                                         }
+                                                     ],
+                                         "type":  1
+                                     },
+                                     {
+                                         "ranking":  [
+                                                         {
+                                                             "leader":  "ESPN LIES 69",
+                                                             "country":  "UN",
+                                                             "alliancename":  "Resistance 저항",
+                                                             "icon":  "6",
+                                                             "uid":  "263e0544c844428aa654a9142dd90fd2",
+                                                             "fightpower":  14785212763,
+                                                             "srcServer":  2009,
+                                                             "curMember":  99,
+                                                             "maxMember":  100,
+                                                             "abbr":  "DEFl",
+                                                             "leaderUid":  "1956097545002009",
+                                                             "nums":  99,
+                                                             "armyKill":  "436433424"
+                                                         }
+                                                     ],
+                                         "type":  2
+                                     },
+                                     {
+                                         "ranking":  [
+                                                         {
+                                                             "country":  "KR",
+                                                             "banTime":  0,
+                                                             "headSkinET":  0,
+                                                             "monthCardEndTime":  1790327929,
+                                                             "alliancename":  "화 랑 HWARANG",
+                                                             "pic":  "",
+                                                             "picVer":  689,
+                                                             "allianceId":  "ae01a07e5db349deae57e3c5a429f29b",
+                                                             "uid":  "1729954670002009",
+                                                             "crossFightSrcServerId":  4294967295,
+                                                             "srcServer":  2009,
+                                                             "headSkinId":  20012,
+                                                             "name":  "윤 yoon",
+                                                             "power":  202166799,
+                                                             "abbr":  "KTHR",
+                                                             "armyKill":  46466230
+                                                         }
+                                                     ],
+                                         "type":  3
+                                     },
+                                     {
+                                         "ranking":  [
+                                                         {
+                                                             "country":  "US",
+                                                             "banTime":  0,
+                                                             "headSkinET":  1790453295330,
+                                                             "level":  30,
+                                                             "monthCardEndTime":  1791941606,
+                                                             "alliancename":  "Resistance 저항",
+                                                             "pic":  "",
+                                                             "picVer":  540,
+                                                             "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                                                             "uid":  "1771461583002009",
+                                                             "crossFightSrcServerId":  4294967295,
+                                                             "srcServer":  2009,
+                                                             "headSkinId":  25015,
+                                                             "name":  "Taxan Killer 에릭",
+                                                             "lastOnlineTime":  1789734952814,
+                                                             "power":  280188988,
+                                                             "abbr":  "DEFl"
+                                                         }
+                                                     ],
+                                         "type":  4
+                                     },
+                                     {
+                                         "ranking":  [
+                                                         {
+                                                             "country":  "KR",
+                                                             "banTime":  0,
+                                                             "headSkinET":  0,
+                                                             "level":  30,
+                                                             "monthCardEndTime":  1791752284,
+                                                             "alliancename":  "Resistance 저항",
+                                                             "icon":  "6",
+                                                             "updateTime":  1767334369447,
+                                                             "pic":  "",
+                                                             "picVer":  1,
+                                                             "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                                                             "uid":  "1833496775002009",
+                                                             "crossFightSrcServerId":  4294967295,
+                                                             "buildingPower":  14297440,
+                                                             "srcServer":  2009,
+                                                             "chatBubbleId":  50004,
+                                                             "headSkinId":  25000,
+                                                             "name":  "JSSJ2026",
+                                                             "chatBubbleET":  0,
+                                                             "abbr":  "DEFl"
+                                                         }
+                                                     ],
+                                         "type":  5
+                                     },
+                                     {
+                                         "ranking":  [
+
+                                                     ],
+                                         "type":  6
+                                     },
+                                     {
+                                         "type":  7
+                                     },
+                                     {
+                                         "ranking":  [
+
+                                                     ],
+                                         "type":  8
+                                     },
+                                     {
+                                         "type":  9
+                                     },
+                                     {
+                                         "type":  10
+                                     },
+                                     {
+                                         "type":  11
+                                     },
+                                     {
+                                         "type":  12
+                                     },
+                                     {
+                                         "ranking":  [
+                                                         {
+                                                             "country":  "KR",
+                                                             "banTime":  0,
+                                                             "headSkinET":  0,
+                                                             "heroPower":  165131262,
+                                                             "monthCardEndTime":  1791752284,
+                                                             "alliancename":  "Resistance 저항",
+                                                             "pic":  "",
+                                                             "picVer":  1,
+                                                             "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                                                             "uid":  "1833496775002009",
+                                                             "crossFightSrcServerId":  4294967295,
+                                                             "srcServer":  2009,
+                                                             "chatBubbleId":  50004,
+                                                             "headSkinId":  25000,
+                                                             "name":  "JSSJ2026",
+                                                             "chatBubbleET":  0,
+                                                             "abbr":  "DEFl"
+                                                         }
+                                                     ],
+                                         "type":  13
+                                     },
+                                     {
+                                         "ranking":  [
+                                                         {
+                                                             "country":  "KR",
+                                                             "banTime":  0,
+                                                             "headSkinET":  0,
+                                                             "monthCardEndTime":  1791752284,
+                                                             "alliancename":  "Resistance 저항",
+                                                             "pic":  "",
+                                                             "picVer":  1,
+                                                             "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                                                             "uid":  "1833496775002009",
+                                                             "crossFightSrcServerId":  4294967295,
+                                                             "srcServer":  2009,
+                                                             "pveMaxStage":  2004250,
+                                                             "chatBubbleId":  50004,
+                                                             "headSkinId":  25000,
+                                                             "name":  "JSSJ2026",
+                                                             "stageScore":  4701359000506410366,
+                                                             "chatBubbleET":  0,
+                                                             "pveMaxStageTime":  1789276485309,
+                                                             "abbr":  "DEFl"
+                                                         }
+                                                     ],
+                                         "type":  14
+                                     },
+                                     {
+                                         "ranking":  [
+                                                         {
+                                                             "country":  "KR",
+                                                             "banTime":  0,
+                                                             "headSkinET":  0,
+                                                             "monthCardEndTime":  1791752284,
+                                                             "alliancename":  "Resistance 저항",
+                                                             "heroId":  50016,
+                                                             "pic":  "",
+                                                             "picVer":  1,
+                                                             "heroHighestPower":  8468955,
+                                                             "heroHighestPowerId":  50016,
+                                                             "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                                                             "uid":  "1833496775002009",
+                                                             "crossFightSrcServerId":  4294967295,
+                                                             "srcServer":  2009,
+                                                             "chatBubbleId":  50004,
+                                                             "headSkinId":  25000,
+                                                             "name":  "JSSJ2026",
+                                                             "chatBubbleET":  0,
+                                                             "power":  8468955,
+                                                             "abbr":  "DEFl"
+                                                         }
+                                                     ],
+                                         "type":  15
+                                     },
+                                     {
+                                         "type":  16
+                                     },
+                                     {
+                                         "type":  17
+                                     },
+                                     {
+                                         "ranking":  [
+                                                         {
+                                                             "country":  "KR",
+                                                             "headSkinET":  0,
+                                                             "monthCardEndTime":  1791752284,
+                                                             "alliancename":  "Resistance 저항",
+                                                             "pic":  "",
+                                                             "picVer":  1,
+                                                             "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                                                             "uid":  "1833496775002009",
+                                                             "srcServer":  2009,
+                                                             "chatBubbleId":  50004,
+                                                             "headSkinId":  25000,
+                                                             "name":  "JSSJ2026",
+                                                             "chatBubbleET":  0,
+                                                             "abbr":  "DEFl",
+                                                             "group":  "50",
+                                                             "order":  "20"
+                                                         }
+                                                     ],
+                                         "type":  18
+                                     },
+                                     {
+                                         "ranking":  [
+                                                         {
+                                                             "country":  "KR",
+                                                             "headSkinET":  0,
+                                                             "monthCardEndTime":  1791752284,
+                                                             "alliancename":  "Resistance 저항",
+                                                             "pic":  "",
+                                                             "picVer":  1,
+                                                             "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                                                             "uid":  "1833496775002009",
+                                                             "srcServer":  2009,
+                                                             "chatBubbleId":  50004,
+                                                             "headSkinId":  25000,
+                                                             "name":  "JSSJ2026",
+                                                             "chatBubbleET":  0,
+                                                             "abbr":  "DEFl",
+                                                             "group":  "50",
+                                                             "order":  "20"
+                                                         }
+                                                     ],
+                                         "type":  19
+                                     },
+                                     {
+                                         "ranking":  [
+                                                         {
+                                                             "country":  "KR",
+                                                             "headSkinET":  0,
+                                                             "monthCardEndTime":  1791752284,
+                                                             "alliancename":  "Resistance 저항",
+                                                             "pic":  "",
+                                                             "picVer":  1,
+                                                             "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                                                             "uid":  "1833496775002009",
+                                                             "srcServer":  2009,
+                                                             "chatBubbleId":  50004,
+                                                             "headSkinId":  25000,
+                                                             "name":  "JSSJ2026",
+                                                             "chatBubbleET":  0,
+                                                             "abbr":  "DEFl",
+                                                             "group":  "50",
+                                                             "order":  "20"
+                                                         }
+                                                     ],
+                                         "type":  20
+                                     },
+                                     {
+                                         "ranking":  [
+
+                                                     ],
+                                         "type":  21
+                                     },
+                                     {
+                                         "type":  22
+                                     }
+                                 ],
+                        "global":  0,
+                        "_id":  1868,
+                        "serverId":  2009,
+                        "_time":  18
+                    },
+              "c":  "rank.get.preview"
+          },
+    "a":  13,
+    "c":  1
+}

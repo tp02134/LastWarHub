@@ -1,0 +1,1028 @@
+﻿{
+    "p":  {
+              "p":  {
+                        "rank":  [
+                                     {
+                                         "allianceId":  "73bea79df86e44ca812612bba7f999f9",
+                                         "score":  "10716292",
+                                         "name":  "The House of Coffee",
+                                         "icon":  "4",
+                                         "rank":  1,
+                                         "abbr":  "THoC",
+                                         "serverId":  2004,
+                                         "aid":  "73bea79df86e44ca812612bba7f999f9"
+                                     },
+                                     {
+                                         "allianceId":  "a2d74d32bd0746a8b22103d40de47b2f",
+                                         "score":  "8405272",
+                                         "name":  "秒殺全場",
+                                         "icon":  "3",
+                                         "rank":  2,
+                                         "abbr":  "sLAY",
+                                         "serverId":  2003,
+                                         "aid":  "a2d74d32bd0746a8b22103d40de47b2f"
+                                     },
+                                     {
+                                         "allianceId":  "3f8ee6c15b804cb3838a10320105e9f1",
+                                         "score":  "7266756",
+                                         "name":  "DラフテルD",
+                                         "icon":  "1",
+                                         "rank":  3,
+                                         "abbr":  "Rafu",
+                                         "serverId":  2005,
+                                         "aid":  "3f8ee6c15b804cb3838a10320105e9f1"
+                                     },
+                                     {
+                                         "allianceId":  "4c1efe823d2c489c860e18d6e3c6c7ad",
+                                         "score":  "6463733",
+                                         "name":  "鬼のパンツァ",
+                                         "icon":  "1",
+                                         "rank":  4,
+                                         "abbr":  "onip",
+                                         "serverId":  2005,
+                                         "aid":  "4c1efe823d2c489c860e18d6e3c6c7ad"
+                                     },
+                                     {
+                                         "allianceId":  "263e0544c844428aa654a9142dd90fd2",
+                                         "score":  "6430633",
+                                         "name":  "Resistance 저항",
+                                         "icon":  "6",
+                                         "rank":  5,
+                                         "abbr":  "DEFl",
+                                         "serverId":  2009,
+                                         "aid":  "263e0544c844428aa654a9142dd90fd2"
+                                     },
+                                     {
+                                         "allianceId":  "b1490527e6a4403eac249ac91244e717",
+                                         "score":  "6343641",
+                                         "name":  "Fang",
+                                         "icon":  "2",
+                                         "rank":  6,
+                                         "abbr":  "F4ng",
+                                         "serverId":  1997,
+                                         "aid":  "b1490527e6a4403eac249ac91244e717"
+                                     },
+                                     {
+                                         "allianceId":  "ae01a07e5db349deae57e3c5a429f29b",
+                                         "score":  "6021854",
+                                         "name":  "화 랑 HWARANG",
+                                         "icon":  "5",
+                                         "rank":  7,
+                                         "abbr":  "KTHR",
+                                         "serverId":  2009,
+                                         "aid":  "ae01a07e5db349deae57e3c5a429f29b"
+                                     },
+                                     {
+                                         "allianceId":  "e1ce4333a34d46cb9e8c85f51e612cee",
+                                         "score":  "5865221",
+                                         "name":  "Special Elite Asian",
+                                         "icon":  "6",
+                                         "rank":  8,
+                                         "abbr":  "sEAL",
+                                         "serverId":  2003,
+                                         "aid":  "e1ce4333a34d46cb9e8c85f51e612cee"
+                                     },
+                                     {
+                                         "allianceId":  "fa31f36777b7413995dde215fdbc2d04",
+                                         "score":  "5609766",
+                                         "name":  "Hermano is the Best",
+                                         "icon":  "2",
+                                         "rank":  9,
+                                         "abbr":  "HEST",
+                                         "serverId":  2004,
+                                         "aid":  "fa31f36777b7413995dde215fdbc2d04"
+                                     },
+                                     {
+                                         "allianceId":  "0dfcc7e075734a62b9ee9d449ae4dd33",
+                                         "score":  "5506700",
+                                         "name":  "ねむたいな",
+                                         "icon":  "5",
+                                         "rank":  10,
+                                         "abbr":  "24hz",
+                                         "serverId":  2012,
+                                         "aid":  "0dfcc7e075734a62b9ee9d449ae4dd33"
+                                     },
+                                     {
+                                         "allianceId":  "da1e8f4c57334fe4a294db4368f19cc2",
+                                         "score":  "5429047",
+                                         "name":  "Shadows of Sparta",
+                                         "icon":  "3",
+                                         "rank":  11,
+                                         "abbr":  "SofS",
+                                         "serverId":  1990,
+                                         "aid":  "da1e8f4c57334fe4a294db4368f19cc2"
+                                     },
+                                     {
+                                         "allianceId":  "58f361aae6a2455581d885b81b8fb1b6",
+                                         "score":  "5420249",
+                                         "name":  "Honor of korea",
+                                         "icon":  "5",
+                                         "rank":  12,
+                                         "abbr":  "H0KA",
+                                         "serverId":  1997,
+                                         "aid":  "58f361aae6a2455581d885b81b8fb1b6"
+                                     },
+                                     {
+                                         "allianceId":  "8c2aab5de91f482eae852241639a51f1",
+                                         "score":  "5302256",
+                                         "name":  "一捅江湖",
+                                         "icon":  "3",
+                                         "rank":  13,
+                                         "abbr":  "YTJH",
+                                         "serverId":  2016,
+                                         "aid":  "8c2aab5de91f482eae852241639a51f1"
+                                     },
+                                     {
+                                         "allianceId":  "651b877d65c747bfb889e7752069f22a",
+                                         "score":  "5258082",
+                                         "name":  "優遊王国Luminous",
+                                         "icon":  "4",
+                                         "rank":  14,
+                                         "abbr":  "YYOL",
+                                         "serverId":  2005,
+                                         "aid":  "651b877d65c747bfb889e7752069f22a"
+                                     },
+                                     {
+                                         "allianceId":  "1fb090171ea543b888be893f2c374c33",
+                                         "score":  "5166134",
+                                         "name":  "台灣天下盟",
+                                         "icon":  "1",
+                                         "rank":  15,
+                                         "abbr":  "rpi8",
+                                         "serverId":  2003,
+                                         "aid":  "1fb090171ea543b888be893f2c374c33"
+                                     },
+                                     {
+                                         "allianceId":  "e067752f1627417283f9d9cb7e0df062",
+                                         "score":  "5038199",
+                                         "name":  "The Divine Army",
+                                         "icon":  "6",
+                                         "rank":  16,
+                                         "abbr":  "TDAY",
+                                         "serverId":  2004,
+                                         "aid":  "e067752f1627417283f9d9cb7e0df062"
+                                     },
+                                     {
+                                         "allianceId":  "087b15ace7cb4abc8ee230b47f821aa2",
+                                         "score":  "5003172",
+                                         "name":  "Alpha Warriors",
+                                         "icon":  "4",
+                                         "rank":  17,
+                                         "abbr":  "AoRa",
+                                         "serverId":  1990,
+                                         "aid":  "087b15ace7cb4abc8ee230b47f821aa2"
+                                     },
+                                     {
+                                         "allianceId":  "d0b8bf0eeb77480ba9748afbed927c50",
+                                         "score":  "4813142",
+                                         "name":  "PERO",
+                                         "icon":  "4",
+                                         "rank":  18,
+                                         "abbr":  "PerO",
+                                         "serverId":  2005,
+                                         "aid":  "d0b8bf0eeb77480ba9748afbed927c50"
+                                     },
+                                     {
+                                         "allianceId":  "b9fb6df4bafc4a8ab00a75948c25ade2",
+                                         "score":  "4710207",
+                                         "name":  "Arise from Ashes",
+                                         "icon":  "1",
+                                         "rank":  19,
+                                         "abbr":  "ArX",
+                                         "serverId":  1990,
+                                         "aid":  "b9fb6df4bafc4a8ab00a75948c25ade2"
+                                     },
+                                     {
+                                         "allianceId":  "5b6edbfc0aa941b19d28803497193399",
+                                         "score":  "4568142",
+                                         "name":  "エビふりゃー",
+                                         "icon":  "1",
+                                         "rank":  20,
+                                         "abbr":  "Ebis",
+                                         "serverId":  2005,
+                                         "aid":  "5b6edbfc0aa941b19d28803497193399"
+                                     },
+                                     {
+                                         "allianceId":  "71b24af298764d6b9cefd6de9377d7ff",
+                                         "score":  "4513077",
+                                         "name":  "Out of Ashes",
+                                         "icon":  "6",
+                                         "rank":  21,
+                                         "abbr":  "00A",
+                                         "serverId":  2004,
+                                         "aid":  "71b24af298764d6b9cefd6de9377d7ff"
+                                     },
+                                     {
+                                         "allianceId":  "06c7bacf328b49dea716605b61ce2eab",
+                                         "score":  "4485304",
+                                         "name":  "YOUTH",
+                                         "icon":  "1",
+                                         "rank":  22,
+                                         "abbr":  "du2y",
+                                         "serverId":  2004,
+                                         "aid":  "06c7bacf328b49dea716605b61ce2eab"
+                                     },
+                                     {
+                                         "allianceId":  "718692ff4aae4b07880472323f067143",
+                                         "score":  "4391455",
+                                         "name":  "BattleBuddies",
+                                         "icon":  "6",
+                                         "rank":  23,
+                                         "abbr":  "BUUD",
+                                         "serverId":  2004,
+                                         "aid":  "718692ff4aae4b07880472323f067143"
+                                     },
+                                     {
+                                         "allianceId":  "0fec8d3b61c149a4b90ac05cfc126782",
+                                         "score":  "4351619",
+                                         "name":  "No Pain only Chill",
+                                         "icon":  "6",
+                                         "rank":  24,
+                                         "abbr":  "NPCo",
+                                         "serverId":  2016,
+                                         "aid":  "0fec8d3b61c149a4b90ac05cfc126782"
+                                     },
+                                     {
+                                         "allianceId":  "b8a3e07b42574c2ea858836d93797622",
+                                         "score":  "4332070",
+                                         "name":  "The Unbeatable",
+                                         "icon":  "1",
+                                         "rank":  25,
+                                         "abbr":  "VNA9",
+                                         "serverId":  2016,
+                                         "aid":  "b8a3e07b42574c2ea858836d93797622"
+                                     },
+                                     {
+                                         "allianceId":  "a7dc9f3861f04ddbb89e31bb55586c57",
+                                         "score":  "4274718",
+                                         "name":  "蟹蟹藍夢",
+                                         "icon":  "6",
+                                         "rank":  26,
+                                         "abbr":  "9453",
+                                         "serverId":  2016,
+                                         "aid":  "a7dc9f3861f04ddbb89e31bb55586c57"
+                                     },
+                                     {
+                                         "allianceId":  "59e70b6e582e4e5abbb1b7c9e41e3dec",
+                                         "score":  "4242081",
+                                         "name":  "ONE   TEAM",
+                                         "icon":  "6",
+                                         "rank":  27,
+                                         "abbr":  "1TEA",
+                                         "serverId":  2005,
+                                         "aid":  "59e70b6e582e4e5abbb1b7c9e41e3dec"
+                                     },
+                                     {
+                                         "allianceId":  "737876a7851f40e487dcaece657fd8e9",
+                                         "score":  "4194536",
+                                         "name":  "Fight to the End",
+                                         "icon":  "4",
+                                         "rank":  28,
+                                         "abbr":  "VNN0",
+                                         "serverId":  2016,
+                                         "aid":  "737876a7851f40e487dcaece657fd8e9"
+                                     },
+                                     {
+                                         "allianceId":  "fec235bf1d6e4288ad8e7cf3f2e519b3",
+                                         "score":  "4125259",
+                                         "name":  "THE RISING PHOENIX",
+                                         "icon":  "2",
+                                         "rank":  29,
+                                         "abbr":  "ryse",
+                                         "serverId":  2003,
+                                         "aid":  "fec235bf1d6e4288ad8e7cf3f2e519b3"
+                                     },
+                                     {
+                                         "allianceId":  "c065dfdaca07464bba03c1b170ad5f9f",
+                                         "score":  "4120863",
+                                         "name":  "DANG",
+                                         "icon":  "6",
+                                         "rank":  30,
+                                         "abbr":  "DNGA",
+                                         "serverId":  1997,
+                                         "aid":  "c065dfdaca07464bba03c1b170ad5f9f"
+                                     },
+                                     {
+                                         "allianceId":  "a4315831a3d84eb99f1511155630476e",
+                                         "score":  "4105284",
+                                         "name":  "Cat and Breeze ω",
+                                         "icon":  "1",
+                                         "rank":  31,
+                                         "abbr":  "CatB",
+                                         "serverId":  2005,
+                                         "aid":  "a4315831a3d84eb99f1511155630476e"
+                                     },
+                                     {
+                                         "allianceId":  "b7dc6d40803444b2bc3450a5f515a909",
+                                         "score":  "4101082",
+                                         "name":  "FearLess Attk Group",
+                                         "icon":  "4",
+                                         "rank":  32,
+                                         "abbr":  "fLAG",
+                                         "serverId":  2009,
+                                         "aid":  "b7dc6d40803444b2bc3450a5f515a909"
+                                     },
+                                     {
+                                         "allianceId":  "9641c9e3573c4f67802e2a3af302aace",
+                                         "score":  "4022728",
+                                         "name":  "Candy Krush",
+                                         "icon":  "1",
+                                         "rank":  33,
+                                         "abbr":  "CK00",
+                                         "serverId":  2004,
+                                         "aid":  "9641c9e3573c4f67802e2a3af302aace"
+                                     },
+                                     {
+                                         "allianceId":  "791af19f88a54b568a36c35bb06f7436",
+                                         "score":  "3856909",
+                                         "name":  "Gates of Tartarus",
+                                         "icon":  "4",
+                                         "rank":  34,
+                                         "abbr":  "TaRT",
+                                         "serverId":  2016,
+                                         "aid":  "791af19f88a54b568a36c35bb06f7436"
+                                     },
+                                     {
+                                         "allianceId":  "c1069bb53904422ba6d969d7086f0f0e",
+                                         "score":  "3818354",
+                                         "name":  "Agents Of Chaos",
+                                         "icon":  "6",
+                                         "rank":  35,
+                                         "abbr":  "AR3X",
+                                         "serverId":  2016,
+                                         "aid":  "c1069bb53904422ba6d969d7086f0f0e"
+                                     },
+                                     {
+                                         "allianceId":  "d891b1da072b4094b91604af76776da1",
+                                         "score":  "3733907",
+                                         "name":  "Witchers",
+                                         "icon":  "4",
+                                         "rank":  36,
+                                         "abbr":  "WTCR",
+                                         "serverId":  1990,
+                                         "aid":  "d891b1da072b4094b91604af76776da1"
+                                     },
+                                     {
+                                         "allianceId":  "886fed11e9044923ac971873c4f4cef4",
+                                         "score":  "3719605",
+                                         "name":  "台灣大聯盟1",
+                                         "icon":  "1",
+                                         "rank":  37,
+                                         "abbr":  "lijt",
+                                         "serverId":  2016,
+                                         "aid":  "886fed11e9044923ac971873c4f4cef4"
+                                     },
+                                     {
+                                         "allianceId":  "02b14ae10a7249d8aae24208ecb8571c",
+                                         "score":  "3717051",
+                                         "name":  "BB団",
+                                         "icon":  "3",
+                                         "rank":  38,
+                                         "abbr":  "BBD1",
+                                         "serverId":  2005,
+                                         "aid":  "02b14ae10a7249d8aae24208ecb8571c"
+                                     },
+                                     {
+                                         "allianceId":  "99be5db38c324cb4a6b64d2623c72fed",
+                                         "score":  "3674130",
+                                         "name":  "まったり会",
+                                         "icon":  "6",
+                                         "rank":  39,
+                                         "abbr":  "mta",
+                                         "serverId":  2012,
+                                         "aid":  "99be5db38c324cb4a6b64d2623c72fed"
+                                     },
+                                     {
+                                         "allianceId":  "0a840bc6093949159c9db394338452ea",
+                                         "score":  "3666602",
+                                         "name":  "ぷりんà la Mode",
+                                         "icon":  "4",
+                                         "rank":  40,
+                                         "abbr":  "pupo",
+                                         "serverId":  2005,
+                                         "aid":  "0a840bc6093949159c9db394338452ea"
+                                     },
+                                     {
+                                         "allianceId":  "a1a9592f27b84afab880349740a30b0d",
+                                         "score":  "3558299",
+                                         "name":  "Iron Ore",
+                                         "icon":  "1",
+                                         "rank":  41,
+                                         "abbr":  "ORES",
+                                         "serverId":  2009,
+                                         "aid":  "a1a9592f27b84afab880349740a30b0d"
+                                     },
+                                     {
+                                         "allianceId":  "dba559382d4a43759faf597bc05ab701",
+                                         "score":  "3533203",
+                                         "name":  "Legion Phoenix",
+                                         "icon":  "3",
+                                         "rank":  42,
+                                         "abbr":  "LeFx",
+                                         "serverId":  1990,
+                                         "aid":  "dba559382d4a43759faf597bc05ab701"
+                                     },
+                                     {
+                                         "allianceId":  "ec0fd1d82b1a4cba82e5558173c51735",
+                                         "score":  "3524114",
+                                         "name":  "Murðer of Crøws",
+                                         "icon":  "4",
+                                         "rank":  43,
+                                         "abbr":  "Crws",
+                                         "serverId":  1997,
+                                         "aid":  "ec0fd1d82b1a4cba82e5558173c51735"
+                                     },
+                                     {
+                                         "allianceId":  "7abab3ec2962438ba8bc3e45c279192e",
+                                         "score":  "3517599",
+                                         "name":  "dioses de venganza",
+                                         "icon":  "6",
+                                         "rank":  44,
+                                         "abbr":  "Ddv",
+                                         "serverId":  1997,
+                                         "aid":  "7abab3ec2962438ba8bc3e45c279192e"
+                                     },
+                                     {
+                                         "allianceId":  "a098620b9ae046eb85a0c18e29893098",
+                                         "score":  "3504597",
+                                         "name":  "The Forgotten Family",
+                                         "icon":  "5",
+                                         "rank":  45,
+                                         "abbr":  "H8tr",
+                                         "serverId":  2009,
+                                         "aid":  "a098620b9ae046eb85a0c18e29893098"
+                                     },
+                                     {
+                                         "allianceId":  "f78feec9576447b8b2e10e9df7dfe358",
+                                         "score":  "3473369",
+                                         "name":  "Unitas Invicta",
+                                         "icon":  "4",
+                                         "rank":  46,
+                                         "abbr":  "UnVi",
+                                         "serverId":  1990,
+                                         "aid":  "f78feec9576447b8b2e10e9df7dfe358"
+                                     },
+                                     {
+                                         "allianceId":  "a9ce2144f3c34979ad0ee3d657eb8224",
+                                         "score":  "3417820",
+                                         "name":  "DRAGONERS",
+                                         "icon":  "2",
+                                         "rank":  47,
+                                         "abbr":  "DNER",
+                                         "serverId":  1990,
+                                         "aid":  "a9ce2144f3c34979ad0ee3d657eb8224"
+                                     },
+                                     {
+                                         "allianceId":  "66eccd62f24d45ae9061f299da7c2a78",
+                                         "score":  "3331641",
+                                         "name":  "JavHD",
+                                         "icon":  "3",
+                                         "rank":  48,
+                                         "abbr":  "Noom",
+                                         "serverId":  2016,
+                                         "aid":  "66eccd62f24d45ae9061f299da7c2a78"
+                                     },
+                                     {
+                                         "allianceId":  "b111410c504646f099455fec34207c01",
+                                         "score":  "3325834",
+                                         "name":  "Dunkle Macht",
+                                         "icon":  "5",
+                                         "rank":  49,
+                                         "abbr":  "DM1",
+                                         "serverId":  1990,
+                                         "aid":  "b111410c504646f099455fec34207c01"
+                                     },
+                                     {
+                                         "allianceId":  "4c9a70d00a0c4ab0bf966aae169c6b3b",
+                                         "score":  "3266141",
+                                         "name":  "火箭兵團",
+                                         "icon":  "4",
+                                         "rank":  50,
+                                         "abbr":  "WtRK",
+                                         "serverId":  2016,
+                                         "aid":  "4c9a70d00a0c4ab0bf966aae169c6b3b"
+                                     },
+                                     {
+                                         "allianceId":  "fd90ae67bfbf4ff28981828b8ad774f2",
+                                         "score":  "3199259",
+                                         "name":  "H3re is La Meute",
+                                         "icon":  "5",
+                                         "rank":  51,
+                                         "abbr":  "H3LM",
+                                         "serverId":  1990,
+                                         "aid":  "fd90ae67bfbf4ff28981828b8ad774f2"
+                                     },
+                                     {
+                                         "allianceId":  "8ddd22aa6e094a8b8862a0e720d9efba",
+                                         "score":  "3119707",
+                                         "name":  "Hermanos de Armas",
+                                         "icon":  "6",
+                                         "rank":  52,
+                                         "abbr":  "HEDA",
+                                         "serverId":  2004,
+                                         "aid":  "8ddd22aa6e094a8b8862a0e720d9efba"
+                                     },
+                                     {
+                                         "allianceId":  "0c3dadfa5bcf4cbc97cf4d882a34c7fa",
+                                         "score":  "3116371",
+                                         "name":  "Harmony and Peasy",
+                                         "icon":  "2",
+                                         "rank":  53,
+                                         "abbr":  "PIZY",
+                                         "serverId":  2012,
+                                         "aid":  "0c3dadfa5bcf4cbc97cf4d882a34c7fa"
+                                     },
+                                     {
+                                         "allianceId":  "7605de9ad29d46c4bcbca46553b98a78",
+                                         "score":  "3049975",
+                                         "name":  "Torch of Chivalry",
+                                         "icon":  "4",
+                                         "rank":  54,
+                                         "abbr":  "TocH",
+                                         "serverId":  2005,
+                                         "aid":  "7605de9ad29d46c4bcbca46553b98a78"
+                                     },
+                                     {
+                                         "allianceId":  "c5743d822f16458fa72a7c2ac415d1a5",
+                                         "score":  "3014712",
+                                         "name":  "ゆるくやる組",
+                                         "icon":  "5",
+                                         "rank":  55,
+                                         "abbr":  "yuya",
+                                         "serverId":  2012,
+                                         "aid":  "c5743d822f16458fa72a7c2ac415d1a5"
+                                     },
+                                     {
+                                         "allianceId":  "df5b77d649c04ce89ad673110ec549eb",
+                                         "score":  "2980768",
+                                         "name":  "ナラティブ",
+                                         "icon":  "4",
+                                         "rank":  56,
+                                         "abbr":  "nart",
+                                         "serverId":  2012,
+                                         "aid":  "df5b77d649c04ce89ad673110ec549eb"
+                                     },
+                                     {
+                                         "allianceId":  "89cf6d71532e42d9b4a2be18d2ee13fe",
+                                         "score":  "2892458",
+                                         "name":  "Strangler",
+                                         "icon":  "6",
+                                         "rank":  57,
+                                         "abbr":  "SPh",
+                                         "serverId":  2016,
+                                         "aid":  "89cf6d71532e42d9b4a2be18d2ee13fe"
+                                     },
+                                     {
+                                         "allianceId":  "d619ddf0b89b43b1a81f063e3c81d179",
+                                         "score":  "2839242",
+                                         "name":  "No Enemy Left Alive",
+                                         "icon":  "4",
+                                         "rank":  58,
+                                         "abbr":  "NELA",
+                                         "serverId":  2009,
+                                         "aid":  "d619ddf0b89b43b1a81f063e3c81d179"
+                                     },
+                                     {
+                                         "allianceId":  "0690f9327d954115add533216142e1bb",
+                                         "score":  "2782706",
+                                         "name":  "Our Pace Our Space",
+                                         "icon":  "4",
+                                         "rank":  59,
+                                         "abbr":  "Bokk",
+                                         "serverId":  2003,
+                                         "aid":  "0690f9327d954115add533216142e1bb"
+                                     },
+                                     {
+                                         "allianceId":  "6a4bf9f9cc9b4a25b26b3daecb46975a",
+                                         "score":  "2706518",
+                                         "name":  "アット ホーム",
+                                         "icon":  "3",
+                                         "rank":  60,
+                                         "abbr":  "ath",
+                                         "serverId":  2012,
+                                         "aid":  "6a4bf9f9cc9b4a25b26b3daecb46975a"
+                                     },
+                                     {
+                                         "allianceId":  "2ccbbb41ef974c5f926e93ab9048cfe4",
+                                         "score":  "2695317",
+                                         "name":  "トナカイ",
+                                         "icon":  "2",
+                                         "rank":  61,
+                                         "abbr":  "f718",
+                                         "serverId":  2012,
+                                         "aid":  "2ccbbb41ef974c5f926e93ab9048cfe4"
+                                     },
+                                     {
+                                         "allianceId":  "f35e34e2c6c34491894465382c59c263",
+                                         "score":  "2621337",
+                                         "name":  "1997 Wolf Pack",
+                                         "icon":  "1",
+                                         "rank":  62,
+                                         "abbr":  "W01F",
+                                         "serverId":  1997,
+                                         "aid":  "f35e34e2c6c34491894465382c59c263"
+                                     },
+                                     {
+                                         "allianceId":  "902841af98884bab9d9f6ffdcca6f8e8",
+                                         "score":  "2611257",
+                                         "name":  "Shadow Strike",
+                                         "icon":  "1",
+                                         "rank":  63,
+                                         "abbr":  "S1Se",
+                                         "serverId":  1997,
+                                         "aid":  "902841af98884bab9d9f6ffdcca6f8e8"
+                                     },
+                                     {
+                                         "allianceId":  "b7163726cebe4647a02c3dd4bedd3f4d",
+                                         "score":  "2575256",
+                                         "name":  "Makks War Heros",
+                                         "icon":  "4",
+                                         "rank":  64,
+                                         "abbr":  "Jain",
+                                         "serverId":  2003,
+                                         "aid":  "b7163726cebe4647a02c3dd4bedd3f4d"
+                                     },
+                                     {
+                                         "allianceId":  "88ba32b46afb4362b83c780d4b524a32",
+                                         "score":  "2549731",
+                                         "name":  "アレア",
+                                         "icon":  "2",
+                                         "rank":  65,
+                                         "abbr":  "aRa",
+                                         "serverId":  2012,
+                                         "aid":  "88ba32b46afb4362b83c780d4b524a32"
+                                     },
+                                     {
+                                         "allianceId":  "e3f30f59c00b4748875af93149c35165",
+                                         "score":  "2509955",
+                                         "name":  "oGo",
+                                         "icon":  "3",
+                                         "rank":  66,
+                                         "abbr":  "oGo",
+                                         "serverId":  2012,
+                                         "aid":  "e3f30f59c00b4748875af93149c35165"
+                                     },
+                                     {
+                                         "allianceId":  "80c01f72de6d446994cdc0e9a4c4f7e6",
+                                         "score":  "2440623",
+                                         "name":  "Gbt",
+                                         "icon":  "1",
+                                         "rank":  67,
+                                         "abbr":  "Styl",
+                                         "serverId":  2009,
+                                         "aid":  "80c01f72de6d446994cdc0e9a4c4f7e6"
+                                     },
+                                     {
+                                         "allianceId":  "80cdd8c89408423ca8577db195584cf9",
+                                         "score":  "2421525",
+                                         "name":  "great friends",
+                                         "icon":  "6",
+                                         "rank":  68,
+                                         "abbr":  "ebik",
+                                         "serverId":  2012,
+                                         "aid":  "80cdd8c89408423ca8577db195584cf9"
+                                     },
+                                     {
+                                         "allianceId":  "3fddbbfbf5494757bce7b2e7f17d567a",
+                                         "score":  "2365473",
+                                         "name":  "あっぱれ肉宮",
+                                         "icon":  "1",
+                                         "rank":  69,
+                                         "abbr":  "9371",
+                                         "serverId":  2012,
+                                         "aid":  "3fddbbfbf5494757bce7b2e7f17d567a"
+                                     },
+                                     {
+                                         "allianceId":  "bc2ab78923504509b5f9f76d5f6e5cb1",
+                                         "score":  "2352304",
+                                         "name":  "Misfit Vikings",
+                                         "icon":  "2",
+                                         "rank":  70,
+                                         "abbr":  "MVKS",
+                                         "serverId":  1997,
+                                         "aid":  "bc2ab78923504509b5f9f76d5f6e5cb1"
+                                     },
+                                     {
+                                         "allianceId":  "5f1719b5f59f4ed3a4f7a9ff326a65f5",
+                                         "score":  "2309029",
+                                         "name":  "きずな",
+                                         "icon":  "4",
+                                         "rank":  71,
+                                         "abbr":  "KIZU",
+                                         "serverId":  2012,
+                                         "aid":  "5f1719b5f59f4ed3a4f7a9ff326a65f5"
+                                     },
+                                     {
+                                         "allianceId":  "7dad257496114d4e9aa0b5786445a87d",
+                                         "score":  "2288690",
+                                         "name":  "Canceladores de CPF",
+                                         "icon":  "6",
+                                         "rank":  72,
+                                         "abbr":  "XCPF",
+                                         "serverId":  2009,
+                                         "aid":  "7dad257496114d4e9aa0b5786445a87d"
+                                     },
+                                     {
+                                         "allianceId":  "033d1c4c6b8c44788c75585aba726131",
+                                         "score":  "2222077",
+                                         "name":  "風起雲湧",
+                                         "icon":  "1",
+                                         "rank":  73,
+                                         "abbr":  "FCtt",
+                                         "serverId":  2003,
+                                         "aid":  "033d1c4c6b8c44788c75585aba726131"
+                                     },
+                                     {
+                                         "allianceId":  "e1d8fd4de6844020902168937521b9f2",
+                                         "score":  "2204645",
+                                         "name":  "Ring Wraiths",
+                                         "icon":  "2",
+                                         "rank":  74,
+                                         "abbr":  "RgWs",
+                                         "serverId":  1997,
+                                         "aid":  "e1d8fd4de6844020902168937521b9f2"
+                                     },
+                                     {
+                                         "allianceId":  "8cc7fb8c645c4dfa8d6f06ec29a8d9fb",
+                                         "score":  "2164576",
+                                         "name":  "猫の箱庭",
+                                         "icon":  "5",
+                                         "rank":  75,
+                                         "abbr":  "re0",
+                                         "serverId":  2012,
+                                         "aid":  "8cc7fb8c645c4dfa8d6f06ec29a8d9fb"
+                                     },
+                                     {
+                                         "allianceId":  "9c3908426e364a33808be30e0af8aa70",
+                                         "score":  "2154916",
+                                         "name":  "Stealth r Us",
+                                         "icon":  "6",
+                                         "rank":  76,
+                                         "abbr":  "SrU",
+                                         "serverId":  2003,
+                                         "aid":  "9c3908426e364a33808be30e0af8aa70"
+                                     },
+                                     {
+                                         "allianceId":  "4e3b39d775e24499b1315fd8a357e687",
+                                         "score":  "2136554",
+                                         "name":  "Alligators Congress",
+                                         "icon":  "5",
+                                         "rank":  77,
+                                         "abbr":  "MyPH",
+                                         "serverId":  2003,
+                                         "aid":  "4e3b39d775e24499b1315fd8a357e687"
+                                     },
+                                     {
+                                         "allianceId":  "a9ddb41a5ec041a8809297f89c490804",
+                                         "score":  "2124209",
+                                         "name":  "Silverdolla",
+                                         "icon":  "2",
+                                         "rank":  78,
+                                         "abbr":  "AD13",
+                                         "serverId":  1990,
+                                         "aid":  "a9ddb41a5ec041a8809297f89c490804"
+                                     },
+                                     {
+                                         "allianceId":  "79c3172de1c840c29780669705e700e3",
+                                         "score":  "2090433",
+                                         "name":  "CHILL CHILL CLAN",
+                                         "icon":  "4",
+                                         "rank":  79,
+                                         "abbr":  "3CVN",
+                                         "serverId":  2003,
+                                         "aid":  "79c3172de1c840c29780669705e700e3"
+                                     },
+                                     {
+                                         "allianceId":  "427d95ceb2844205b73e721e84f113b3",
+                                         "score":  "2033630",
+                                         "name":  "hoa anh đào",
+                                         "icon":  "1",
+                                         "rank":  80,
+                                         "abbr":  "hadd",
+                                         "serverId":  2003,
+                                         "aid":  "427d95ceb2844205b73e721e84f113b3"
+                                     },
+                                     {
+                                         "allianceId":  "d7f7b10c2d814c3aa74d931f17449aa9",
+                                         "score":  "2000730",
+                                         "name":  "不想加任何聊",
+                                         "icon":  "6",
+                                         "rank":  81,
+                                         "abbr":  "Duro",
+                                         "serverId":  2016,
+                                         "aid":  "d7f7b10c2d814c3aa74d931f17449aa9"
+                                     },
+                                     {
+                                         "allianceId":  "4125b210aeb04c9ab50dd3e0876e6ca3",
+                                         "score":  "1964328",
+                                         "name":  "REYNO DE LA MUERTE",
+                                         "icon":  "2",
+                                         "rank":  82,
+                                         "abbr":  "RDLM",
+                                         "serverId":  2009,
+                                         "aid":  "4125b210aeb04c9ab50dd3e0876e6ca3"
+                                     },
+                                     {
+                                         "allianceId":  "912d0184feda4e74b71afa462e643e3d",
+                                         "score":  "1959792",
+                                         "name":  "ぴとぴと",
+                                         "icon":  "1",
+                                         "rank":  83,
+                                         "abbr":  "Nhkx",
+                                         "serverId":  2012,
+                                         "aid":  "912d0184feda4e74b71afa462e643e3d"
+                                     },
+                                     {
+                                         "allianceId":  "1599dba08c4d439988cb268ec7aebb89",
+                                         "score":  "1895090",
+                                         "name":  "Last Survivor",
+                                         "icon":  "5",
+                                         "rank":  84,
+                                         "abbr":  "XVR",
+                                         "serverId":  2004,
+                                         "aid":  "1599dba08c4d439988cb268ec7aebb89"
+                                     },
+                                     {
+                                         "allianceId":  "d0844bce36464e3f94e4c0a59ab30304",
+                                         "score":  "1679898",
+                                         "name":  "MAXベイ",
+                                         "icon":  "6",
+                                         "rank":  85,
+                                         "abbr":  "MI86",
+                                         "serverId":  2012,
+                                         "aid":  "d0844bce36464e3f94e4c0a59ab30304"
+                                     },
+                                     {
+                                         "allianceId":  "a0e71d4660f143eeb5171e69a41b29f9",
+                                         "score":  "1643885",
+                                         "name":  "樂趣联盟",
+                                         "icon":  "5",
+                                         "rank":  86,
+                                         "abbr":  "funy",
+                                         "serverId":  2016,
+                                         "aid":  "a0e71d4660f143eeb5171e69a41b29f9"
+                                     },
+                                     {
+                                         "allianceId":  "27de159f36f6426c9602ec3aa34d8538",
+                                         "score":  "1539887",
+                                         "name":  "Night wolves",
+                                         "icon":  "4",
+                                         "rank":  87,
+                                         "abbr":  "N1T3",
+                                         "serverId":  1990,
+                                         "aid":  "27de159f36f6426c9602ec3aa34d8538"
+                                     },
+                                     {
+                                         "allianceId":  "422af7fef9e74ba2b07b7ead02e07d8f",
+                                         "score":  "1513049",
+                                         "name":  "Legion of Angels II",
+                                         "icon":  "3",
+                                         "rank":  88,
+                                         "abbr":  "j8w6",
+                                         "serverId":  2004,
+                                         "aid":  "422af7fef9e74ba2b07b7ead02e07d8f"
+                                     },
+                                     {
+                                         "allianceId":  "a77318f5f4144f3689149b651a745340",
+                                         "score":  "1494266",
+                                         "name":  "REVR",
+                                         "icon":  "4",
+                                         "rank":  89,
+                                         "abbr":  "REVR",
+                                         "serverId":  2009,
+                                         "aid":  "a77318f5f4144f3689149b651a745340"
+                                     },
+                                     {
+                                         "allianceId":  "4c138829465e4c909c15b5ddf28d0acf",
+                                         "score":  "1484683",
+                                         "name":  "NewHeroMalaysiaJapan",
+                                         "icon":  "5",
+                                         "rank":  90,
+                                         "abbr":  "nhmj",
+                                         "serverId":  2005,
+                                         "aid":  "4c138829465e4c909c15b5ddf28d0acf"
+                                     },
+                                     {
+                                         "allianceId":  "f0112982b4ae457ebdf13a37c7b71d03",
+                                         "score":  "1484047",
+                                         "name":  "Wojownicy Chaosu",
+                                         "icon":  "6",
+                                         "rank":  91,
+                                         "abbr":  "WCHS",
+                                         "serverId":  1990,
+                                         "aid":  "f0112982b4ae457ebdf13a37c7b71d03"
+                                     },
+                                     {
+                                         "allianceId":  "40dc463a047b4369bae00ebabcee6c2b",
+                                         "score":  "1477968",
+                                         "name":  "星城之月",
+                                         "icon":  "1",
+                                         "rank":  92,
+                                         "abbr":  "mcdo",
+                                         "serverId":  2005,
+                                         "aid":  "40dc463a047b4369bae00ebabcee6c2b"
+                                     },
+                                     {
+                                         "allianceId":  "c3923a95838044baa946d67ffed07322",
+                                         "score":  "1457327",
+                                         "name":  "THE UNITED WARRIORS",
+                                         "icon":  "5",
+                                         "rank":  93,
+                                         "abbr":  "UWRs",
+                                         "serverId":  2003,
+                                         "aid":  "c3923a95838044baa946d67ffed07322"
+                                     },
+                                     {
+                                         "allianceId":  "a5a0166797f0455e9cfaee9df5c66c29",
+                                         "score":  "1440624",
+                                         "name":  "フリーTENSIONω",
+                                         "icon":  "3",
+                                         "rank":  94,
+                                         "abbr":  "FREE",
+                                         "serverId":  2005,
+                                         "aid":  "a5a0166797f0455e9cfaee9df5c66c29"
+                                     },
+                                     {
+                                         "allianceId":  "9804023ab773400b8840a1a8ebcdfa61",
+                                         "score":  "1434190",
+                                         "name":  "DreamCast",
+                                         "icon":  "1",
+                                         "rank":  95,
+                                         "abbr":  "DreC",
+                                         "serverId":  2005,
+                                         "aid":  "9804023ab773400b8840a1a8ebcdfa61"
+                                     },
+                                     {
+                                         "allianceId":  "c665c966fce44b35b9e8c6f171d904e3",
+                                         "score":  "1360708",
+                                         "name":  "死屍累々",
+                                         "icon":  "4",
+                                         "rank":  96,
+                                         "abbr":  "SSrr",
+                                         "serverId":  2005,
+                                         "aid":  "c665c966fce44b35b9e8c6f171d904e3"
+                                     },
+                                     {
+                                         "allianceId":  "e5822f2e2fb54e77b8fc3b35411d9ea8",
+                                         "score":  "1295540",
+                                         "name":  "Eternal Phoenix",
+                                         "icon":  "5",
+                                         "rank":  97,
+                                         "abbr":  "FHx",
+                                         "serverId":  1990,
+                                         "aid":  "e5822f2e2fb54e77b8fc3b35411d9ea8"
+                                     },
+                                     {
+                                         "allianceId":  "e32f3bbb323540b68528be18263472f8",
+                                         "score":  "1289447",
+                                         "name":  "Les phares a on",
+                                         "icon":  "6",
+                                         "rank":  98,
+                                         "abbr":  "Dej",
+                                         "serverId":  1990,
+                                         "aid":  "e32f3bbb323540b68528be18263472f8"
+                                     },
+                                     {
+                                         "allianceId":  "243e0806e3dc43c4867dd6f7fbea7c68",
+                                         "score":  "1276426",
+                                         "name":  "日本同盟や",
+                                         "icon":  "1",
+                                         "rank":  99,
+                                         "abbr":  "10AB",
+                                         "serverId":  2005,
+                                         "aid":  "243e0806e3dc43c4867dd6f7fbea7c68"
+                                     },
+                                     {
+                                         "allianceId":  "d20605f202e243e191a6bd66f44f02f7",
+                                         "score":  "1267545",
+                                         "name":  "Land Below The Wind",
+                                         "icon":  "4",
+                                         "rank":  100,
+                                         "abbr":  "LBtW",
+                                         "serverId":  2012,
+                                         "aid":  "d20605f202e243e191a6bd66f44f02f7"
+                                     },
+                                     {
+                                         "allianceId":  "87c66f5fd096456e811e07d217424759",
+                                         "score":  "1250656",
+                                         "name":  "Gaps and Lines",
+                                         "icon":  "5",
+                                         "rank":  101,
+                                         "abbr":  "GAPS",
+                                         "serverId":  1990,
+                                         "aid":  "87c66f5fd096456e811e07d217424759"
+                                     }
+                                 ],
+                        "self":  {
+                                     "score":  "6430633",
+                                     "rank":  5
+                                 },
+                        "_id":  1747,
+                        "rank_type":  6,
+                        "_time":  41
+                    },
+              "c":  "lw.season.rank.info"
+          },
+    "a":  13,
+    "c":  1
+}

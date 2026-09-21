@@ -1,0 +1,15 @@
+# Runtime process state
+data/*.pid
+data/*-stop.flag
+data/collection-status.json
+data/connection-account.json
+data/ui-session.json
+
+# Temporary packet buffers and logs
+data/npcap-live/
+data/*.log
+data/*.tmp
+
+# Windows metadata
+Thumbs.db
+Desktop.ini

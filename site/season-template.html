@@ -1,0 +1,225 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>시즌 공헌 순위 · LastwarHub</title>
+<style>
+:root{--bg:#f2f4ef;--paper:#fff;--ink:#17251d;--muted:#637166;--line:#dce3da;--green:#17633d}*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.6 'Malgun Gothic',system-ui,sans-serif}button,input,select{font:inherit}button,select{cursor:pointer}a{color:inherit}header{background:#15291f;color:#eef6ed;padding:22px max(24px,calc((100vw - 1200px)/2));display:flex;align-items:center;justify-content:space-between;gap:20px}.brand{font-weight:800;letter-spacing:.07em;font-size:18px}.brand span{color:#a4c99c}header a{color:#c4d4c5;font-size:13px;text-decoration:none}main{max-width:1248px;padding:38px 24px 50px;margin:auto}.eyebrow{color:var(--green);font-size:12px;font-weight:800;letter-spacing:.16em}h1{font-size:36px;letter-spacing:-1.8px;margin:8px 0}p{margin:0}.intro{color:var(--muted)}.hero{display:flex;justify-content:space-between;align-items:end;gap:24px}.stamp{font-size:12px;color:var(--muted);text-align:right;white-space:nowrap}.note{margin:24px 0;padding:13px 17px;background:#e7ece2;border-left:3px solid #728968;color:#485845;font-size:13px}.tabs{display:flex;gap:8px;flex-wrap:wrap;margin:24px 0 16px}.tab{border:1px solid var(--line);border-radius:8px;background:#fff;padding:12px 22px;color:var(--muted);text-align:left}.tab strong{display:block;color:var(--ink)}.tab small{font-size:11px}.tab[aria-pressed=true]{background:#173f2a;border-color:#173f2a;color:#bfcebe}.tab[aria-pressed=true] strong{color:#fff}.toolbar{display:flex;gap:10px;flex-wrap:wrap;align-items:end;background:var(--paper);padding:18px;border:1px solid var(--line);border-radius:10px}label{font-size:12px;font-weight:700;color:var(--muted);display:flex;flex-direction:column;gap:5px}input,select{border:1px solid #cbd5c8;border-radius:6px;background:white;color:var(--ink);padding:10px 12px;min-height:44px}input{width:270px}input:focus,select:focus,button:focus-visible{outline:3px solid #a7c6ac;outline-offset:2px}.action{border:1px solid #cbd5c8;background:#fff;border-radius:6px;min-height:44px;padding:9px 15px;color:var(--green);font-weight:700}.export{margin-left:auto}.stats{display:grid;grid-template-columns:repeat(4,1fr);gap:14px;margin:20px 0}.stat{background:#fff;border:1px solid var(--line);border-radius:9px;padding:20px}.stat .label{color:var(--muted);font-size:12px}.stat .value{font-size:28px;font-weight:750;letter-spacing:-1px;margin:5px 0}.stat .sub{font-size:12px;color:var(--muted);overflow-wrap:anywhere}.panel{background:#fff;border:1px solid var(--line);border-radius:10px;overflow:hidden}.panel-head{padding:20px 22px;display:flex;align-items:center;justify-content:space-between;gap:10px;border-bottom:1px solid var(--line)}h2{font-size:18px;margin:0}.meta{font-size:12px;color:var(--muted)}.table-wrap{overflow:auto;max-height:660px}table{border-collapse:collapse;width:100%;white-space:nowrap;font-size:14px}th{position:sticky;top:0;background:#edf1ea;z-index:1;color:#556451;font-size:12px;text-align:left;padding:13px 20px}td{padding:14px 20px;border-bottom:1px solid #edf0ea}tbody tr:hover{background:#f5f8f2}.num{text-align:right;font-variant-numeric:tabular-nums}.rank{color:#788673;width:85px}.medal{display:inline-grid;place-items:center;width:28px;height:28px;background:#ece5c7;color:#78611a;border-radius:7px;font-weight:800}.name{font-weight:700}.tag{display:inline-block;border:1px solid #d8e3d3;border-radius:5px;padding:2px 8px;background:#f3f7ef;color:#54724c;font-size:12px}.bar{height:3px;background:#edf2e9;margin-top:5px;border-radius:3px;overflow:hidden}.bar i{display:block;background:#7caa70;height:100%}.empty{text-align:center;color:var(--muted);padding:45px}.foot{display:flex;justify-content:space-between;gap:20px;padding:14px 22px;font-size:12px;color:var(--muted)}footer{font-size:12px;color:var(--muted);margin-top:20px}.switch{display:flex;gap:6px}.switch button{border:1px solid var(--line);background:white;border-radius:5px;padding:7px 10px;font-size:12px}.switch button[aria-pressed=true]{background:#e5efdf;color:#245d36;border-color:#b4c8aa}@media(max-width:720px){main{padding:24px 14px}.hero{display:block}h1{font-size:28px}.stamp{text-align:left;margin-top:12px}.stats{grid-template-columns:1fr 1fr;gap:8px}.stat{padding:14px}.stat .value{font-size:23px}.toolbar label:first-child{width:100%}input{width:100%}.export{margin-left:0}.panel-head{align-items:start;flex-direction:column}td,th{padding:12px}.foot{flex-direction:column;gap:4px}.tab{padding:10px 14px}header{padding:18px}header a{font-size:11px}}
+.column-sort{border:0;background:transparent;color:inherit;font:inherit;font-weight:700;padding:0;min-height:28px}.column-sort:hover{color:var(--green);text-decoration:underline}main>.tabs,main>.toolbar,main>.stats{display:none!important}.page-tabs{display:flex;gap:8px;margin-bottom:24px}.page-tabs button{border:1px solid var(--line);border-radius:8px;padding:12px 24px;background:white;color:var(--ink);font-weight:700}.page-tabs button[aria-pressed="true"]{background:var(--green);color:white}.switch{display:none!important}.packet-signals{display:flex;gap:10px;flex-wrap:wrap;margin-top:10px}.packet-signals[hidden]{display:none!important}.packet-signal{display:inline-flex;align-items:center;gap:7px;padding:6px 10px;background:#fff;border:1px solid var(--line);border-radius:999px;font-weight:700}.packet-light{width:11px;height:11px;border-radius:50%;background:#d64045;box-shadow:0 0 0 3px #f8d9da}.packet-signal.received .packet-light{background:#2684ff;box-shadow:0 0 0 3px #d7e9ff}.desert-controls{display:flex;align-items:center;justify-content:space-between;gap:16px;margin:24px 0;padding:18px;background:var(--paper);border:1px solid var(--line);border-radius:10px}.metric-buttons{display:flex;gap:8px;flex-wrap:wrap}.metric-buttons button[aria-pressed="true"]{background:var(--green);color:#fff;border-color:var(--green)}.desert-summary{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin-bottom:20px}.desert-grid{display:grid;grid-template-columns:1fr 1fr;gap:18px}.desert-card{background:var(--paper);border:1px solid var(--line);border-radius:10px;overflow:hidden}.desert-card>header{background:#173f2a;padding:17px 20px}.desert-card h2{margin:0;color:#fff}.desert-card .slot{padding:16px 18px;border-top:1px solid var(--line)}.desert-card .slot:first-of-type{border-top:0}.desert-card h3{margin:0 0 10px;font-size:15px}.roster-status{display:inline-block;margin-left:7px;color:var(--muted);font-size:12px;font-weight:400}.desert-table{font-size:13px}.desert-table th,.desert-table td{padding:10px 12px}.desert-note{margin-top:18px;color:var(--muted);font-size:12px}@media(max-width:820px){.desert-grid{grid-template-columns:1fr}.desert-summary{grid-template-columns:1fr 1fr}.desert-controls{align-items:flex-start;flex-direction:column}}
+#share-controls{display:flex;align-items:center;justify-content:flex-end;gap:8px;flex-wrap:wrap}#share-controls .action{min-height:38px;padding:7px 12px}#share-feedback{font-size:12px}
+</style></head>
+<body><header><div class="brand">LASTWAR<span>HUB</span></div><div id="share-controls"><button class="action" id="copy-share" type="button">공유 링크 복사</button><span id="share-feedback" role="status" aria-live="polite"></span></div></header>
+<main><nav class="page-tabs" aria-label="페이지"><button id="home-tab" type="button">메인 · 총영투</button><button id="desert-tab" type="button">사막</button><button id="canyon-tab" type="button">협곡</button><button id="season-tab" type="button">시즌</button></nav><section class="hero"><div><div class="eyebrow">ALLIANCE INTELLIGENCE</div><h1>시즌 공헌 순위</h1><p class="intro">연맹을 선택하고, 멤버들의 공헌 점수를 한눈에 확인하세요.</p><p class="account-line" id="account-context"></p></div><div class="stamp"><button class="action" id="sync">데이터 불러오기</button> <button class="action" id="stop-sync" disabled>■ 수집기 끄기</button><br><span id="updated-at"></span></div></section>
+<section class="note" aria-label="데이터 동기화"><p id="sync-status" role="status" aria-live="polite">현재 웹 탭의 데이터 불러오기 버튼을 누른 뒤 안내된 게임 화면을 다시 열어주세요.</p><div class="packet-signals" id="packet-signals" hidden><span class="packet-signal" data-packet="heroPower"><i class="packet-light"></i><span>총 영웅 전투력<span class="en-line" lang="en">Total Hero Power</span></span></span><span class="packet-signal" data-packet="weeklyScore"><i class="packet-light"></i><span>이번주 연대 점수<span class="en-line" lang="en">This Week Alliance Duel Score</span></span></span></div><progress id="sync-progress" max="60" value="0" hidden style="width:100%;margin-top:10px"></progress></section>
+<div class="note">상호 지원 · 공성 · 쟁탈전 · 처치의 공헌 순위입니다. 집계 기간은 확인 중이며, 점수 합계와 평균은 선택한 항목을 기준으로 표시합니다.</div>
+<nav class="tabs" aria-label="공헌 목록" id="tabs"></nav>
+<section class="toolbar" aria-label="순위 필터"><label>멤버 검색<input id="search" type="search" placeholder="이름 또는 UID 검색" autocomplete="off"></label><label>연맹<select id="alliance"><option value="">전체 연맹</option></select></label><label>정렬<select id="sort"><option value="hero">총 영웅 전투력 높은 순</option><option value="rank">공헌 순위순</option><option value="high">공헌 점수 높은 순</option><option value="low">공헌 점수 낮은 순</option><option value="name">이름순</option></select></label><button class="action" id="reset">초기화</button><button class="action export" id="export">현재 목록 CSV ↓</button></section>
+<section class="stats" id="stats" aria-live="polite"></section>
+<section class="panel"><div class="panel-head"><div><h2 id="heading">공헌 순위</h2><p class="meta" id="count" aria-live="polite"></p></div><div class="switch" aria-label="표 보기"><button id="rank-view" aria-pressed="true">순위 목록</button><button id="compare-view" aria-pressed="false">멤버별 비교</button></div></div><div class="table-wrap"><table><thead id="thead"></thead><tbody id="tbody"></tbody></table></div><div class="foot"><span>순위는 서버가 반환한 원래 순위입니다.</span><span>확인되지 않은 시즌 점수는 0으로 표시합니다.</span></div></section>
+<footer>명단을 수집한 연맹은 해당 명단의 멤버를 기준으로 표시합니다. 그 외 연맹은 수집된 순위에 포함된 인원만 표시합니다. 총영투 순위에서 확인되지 않은 인원은 ‘미확인’, 수집되지 않은 공헌 점수는 0으로 표시하고 정렬합니다. 이름·연맹은 수집된 연맹원 명단을 우선합니다.</footer>
+<section id="desert-page" hidden><div class="desert-controls"><div><strong id="desert-vote-title">DS Battlefield</strong><div class="meta" id="desert-vote-meta"></div></div><div class="metric-buttons" aria-label="편성 기준"><button class="action" id="desert-power" aria-pressed="true">총 영웅 전투력<span class="en-line" lang="en">Total Hero Power</span></button><button class="action" id="desert-weekly" aria-pressed="false">지난주 연대 점수<span class="en-line" lang="en">Previous Week Alliance Duel Score</span></button></div></div><div class="desert-summary" id="desert-summary"></div><div class="desert-grid" id="desert-grid"></div><p class="desert-note">투표한 시간대와 메인·서브 희망을 유지하며, 정원이 넘을 경우 선택한 기준의 높은 순서로 편성합니다. 확인되지 않은 점수는 0으로 계산합니다.<span class="en-line" lang="en">Time and Main/Sub preferences are preserved. When capacity is exceeded, the selected metric determines the roster. Unavailable scores count as 0.</span></p></section></main>
+<script id="data" type="application/json">__SEASON_DATA__</script>
+<script id="labels" type="application/json">__SEASON_LABELS__</script>
+<script id="times" type="application/json">__SEASON_TIMES__</script>
+<script id="last-update" type="application/json">__SEASON_LAST_UPDATE__</script>
+<script id="heroes" type="application/json">__HERO_DATA__</script>
+<script id="members" type="application/json">__MEMBER_DATA__</script>
+<script id="weekly" type="application/json">__WEEKLY_DATA__</script>
+<script id="previous-weekly" type="application/json">__PREVIOUS_WEEKLY_DATA__</script>
+<script id="vote" type="application/json">__VOTE_DATA__</script>
+<script id="canyon-vote" type="application/json">__CANYON_VOTE_DATA__</script>
+<script id="account" type="application/json">__ACCOUNT_DATA__</script>
+<script>
+'use strict';
+const embeddedJson=id=>JSON.parse(document.getElementById(id).textContent);
+sessionStorage.removeItem('lastwar-loaded-snapshot');
+const snapshotValue=(key,embeddedId)=>embeddedJson(embeddedId);
+const heroData=snapshotValue('hero','heroes');
+const heroMap=new Map(heroData.rows.map(r=>[r.uid,r]));
+const accountData=snapshotValue('account','account');
+const rawMemberData=snapshotValue('member','members');
+const memberData=accountData.allianceId&&rawMemberData.allianceId&&String(accountData.allianceId)!==String(rawMemberData.allianceId)?{capturedAt:rawMemberData.capturedAt,serverId:accountData.serverId,allianceId:accountData.allianceId,alliance:accountData.alliance||'',allianceName:accountData.allianceName||'',rows:[]}:rawMemberData;
+const memberMap=new Map(memberData.rows.map(r=>[r.uid,r]));
+const weeklyData=snapshotValue('weekly','weekly'),weeklyMap=new Map(weeklyData.rows.map(r=>[r.uid,r]));
+const previousWeeklyData=embeddedJson('previous-weekly'),previousWeeklyMap=new Map(previousWeeklyData.rows.map(r=>[r.uid,r]));
+const voteData=snapshotValue('desertVote','vote');
+const canyonVoteData=snapshotValue('canyonVote','canyon-vote');
+const identity=r=>({...r,name:memberMap.get(r.uid)?.name??heroMap.get(r.uid)?.name??r.name,alliance:memberMap.get(r.uid)?.alliance??heroMap.get(r.uid)?.alliance??r.alliance});
+const seasonRows=snapshotValue('seasonRows','data');
+const rows=seasonRows.map(identity);
+const events=[...new Set(rows.map(r=>r.event))].sort();
+const $=id=>document.getElementById(id), fmt=n=>Number(n).toLocaleString('ko-KR');
+let active=events[0],view='compare',visible=[],columnSort=null,page=location.hash==='#season'?'season':location.hash==='#desert'?'desert':location.hash==='#canyon'?'canyon':'home',desertMetric='power';
+const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const labels=snapshotValue('labels','labels');
+const title=id=>id==='weekly'?'이번주 연대 점수':id==='previousWeekly'?'지난주 연대 점수':id==='heroPower'?'총 영웅 전투력':id==='memberPower'?'연맹원 전투력':id==='dsVote'?'사막 투표':id==='csVote'?'협곡 투표':labels[id]||('항목 '+id);
+const eventTimes=snapshotValue('eventTimes','times');
+const allAlliances=[...new Set([...rows,...heroData.rows,...memberData.rows,...weeklyData.rows,...previousWeeklyData.rows,{alliance:accountData.alliance}].map(identity).map(r=>r.alliance).filter(Boolean))].sort();
+allAlliances.forEach(a=>{const o=document.createElement('option');o.value=a;o.textContent=a||'연맹 없음';$('alliance').append(o)});
+const currentAlliance=accountData.alliance||memberData.alliance;
+if(currentAlliance)$('alliance').value=currentAlliance;
+const powerOption=document.createElement('option');powerOption.value='power';powerOption.textContent='연맹원 전투력 높은 순';$('sort').insertBefore(powerOption,$('sort').children[1]);
+events.forEach(id=>{const b=document.createElement('button');b.className='tab';b.dataset.event=id;b.innerHTML='<strong>'+title(id)+'</strong><small>'+rows.filter(r=>r.event===id).length+'명 · 항목 '+esc(id)+'</small>';b.addEventListener('click',()=>{active=id;render()});$('tabs').append(b)});
+function matchesFilter(r){const q=$('search').value.trim().toLocaleLowerCase();if($('alliance').value===memberData.alliance&&!memberMap.has(r.uid))return false;return (!$('alliance').value||r.alliance===$('alliance').value)&&(!q||r.name.toLocaleLowerCase().includes(q)||r.uid.includes(q))}
+function filtered(){return rows.filter(matchesFilter)}
+function heroSort(a,b){const x=heroMap.get(a.uid)?.heroPower,y=heroMap.get(b.uid)?.heroPower;if(x==null)return y==null?a.name.localeCompare(b.name,'ko'):1;if(y==null)return -1;return y-x||a.name.localeCompare(b.name,'ko')}
+function powerSort(a,b){const x=memberMap.get(a.uid)?.power,y=memberMap.get(b.uid)?.power;if(x==null)return y==null?a.name.localeCompare(b.name,'ko'):1;if(y==null)return -1;return y-x||a.name.localeCompare(b.name,'ko')}
+function cellName(r){return '<span class="name">'+esc(r.name)+'</span>'}
+function effectiveColumnSort(){return columnSort||($('sort').value==='hero'?{key:'hero',direction:'desc'}:$('sort').value==='power'?{key:'power',direction:'desc'}:null)}
+function columnValue(r,key){return key==='weekly'?(weeklyMap.get(r.uid)?.score??0):key==='previousWeekly'?(previousWeeklyMap.get(r.uid)?.score??0):key==='power'?memberMap.get(r.uid)?.power:key==='hero'?heroMap.get(r.uid)?.heroPower:r.entries?.[key]?.score??(r.event===key?r.score:0)}
+function columnCompare(a,b){const {key,direction}=effectiveColumnSort(),x=columnValue(a,key),y=columnValue(b,key);if(x==null)return y==null?a.name.localeCompare(b.name,'ko'):1;if(y==null)return -1;return (direction==='asc'?x-y:y-x)||a.name.localeCompare(b.name,'ko')}
+function sortHeader(key,label){const s=effectiveColumnSort(),selected=s?.key===key;return '<th class="num" aria-sort="'+(selected?(s.direction==='asc'?'ascending':'descending'):'none')+'"><button type="button" class="column-sort" data-sort-key="'+esc(key)+'">'+esc(label)+' <span aria-hidden="true">'+(selected?(s.direction==='asc'?'↑':'↓'):'↕')+'</span></button></th>'}
+$('thead').addEventListener('click',e=>{const button=e.target.closest('[data-sort-key]');if(!button)return;const key=button.dataset.sortKey,s=effectiveColumnSort();columnSort={key,direction:s?.key===key&&s.direction==='desc'?'asc':'desc'};let option=$('sort').querySelector('option[value="column"]');if(!option){option=document.createElement('option');option.value='column';$('sort').append(option)}option.textContent=(key==='hero'?title('heroPower'):key==='power'?title('memberPower'):title(key))+(columnSort.direction==='asc'?' 낮은 순':' 높은 순');$('sort').value='column';render()});
+function desertValue(v){return desertMetric==='weekly'?Number(previousWeeklyMap.get(v.uid)?.score||0):Number(heroMap.get(v.uid)?.heroPower||0)}
+function battlefieldVote(){return page==='canyon'?canyonVoteData:voteData}
+function desertRoster(time){
+ const candidates=[];
+ for(const option of battlefieldVote().options||[]){
+  if(!new RegExp('^'+time+'(?:\\s|$)','i').test(option.label||''))continue;
+  const preferredSub=/\bsub\b/i.test(option.label||'');
+  for(const voter of option.voters||[])candidates.push({...voter,optionLabel:option.label,preferredSub});
+ }
+ const unique=[...new Map(candidates.map(v=>[v.uid,v])).values()];
+ const sorter=(a,b)=>desertValue(b)-desertValue(a)||a.name.localeCompare(b.name,'ko');
+ const mainCandidates=unique.filter(v=>!v.preferredSub).sort(sorter),preferredSubs=unique.filter(v=>v.preferredSub);
+ const main=mainCandidates.slice(0,20),reservePool=[...mainCandidates.slice(20),...preferredSubs].sort(sorter),sub=reservePool.slice(0,10),wait=reservePool.slice(10);
+ return {main,sub,wait,total:unique.length};
+}
+function desertTable(rows,kind,limit){
+ const metricTitle=desertMetric==='weekly'?'지난주 연대 점수':'총 영웅 전투력',metricEnglish=desertMetric==='weekly'?'Previous Week Alliance Duel Score':'Total Hero Power';
+ if(!rows.length)return '<div class="empty">선택한 인원이 없습니다.<span class="en-line" lang="en">No voters selected this slot.</span></div>';
+ return '<div class="table-wrap"><table class="desert-table"><thead><tr><th>#</th><th>멤버<span class="en-line" lang="en">Member</span></th><th>투표<span class="en-line" lang="en">Vote</span></th><th class="num">'+metricTitle+'<span class="en-line" lang="en">'+metricEnglish+'</span></th></tr></thead><tbody>'+rows.map((v,i)=>'<tr><td class="rank">'+(i+1)+'</td><td><span class="name">'+esc(v.name)+'</span></td><td>'+(v.preferredSub?'서브 희망<span class="en-line" lang="en">Sub preference</span>':'메인 희망<span class="en-line" lang="en">Main preference</span>')+'</td><td class="num"><strong>'+fmt(desertValue(v))+'</strong></td></tr>').join('')+'</tbody></table></div>';
+}
+function renderDesert(){
+ const currentVote=battlefieldVote(),a=desertRoster('A'),b=desertRoster('B'),all=[...(currentVote.options||[])],leader=[...all].sort((x,y)=>y.votes-x.votes)[0];
+ $('desert-vote-title').textContent=currentVote.title||(page==='canyon'?'CS Battlefield':'DS Battlefield');
+ $('desert-vote-meta').textContent=currentVote.endsAt?'투표 '+fmt(currentVote.totalVotes||0)+'명 · 마감 '+new Date(currentVote.endsAt).toLocaleString('ko-KR'):'투표 데이터를 기다리는 중';
+ $('desert-power').setAttribute('aria-pressed',String(desertMetric==='power'));$('desert-weekly').setAttribute('aria-pressed',String(desertMetric==='weekly'));
+ $('desert-summary').innerHTML=[['투표 참여',fmt(currentVote.totalVotes||0)+' / '+fmt(currentVote.totalEligible||0)+'명','Votes'],['A 시간대',fmt(a.total)+'명','Time A'],['B 시간대',fmt(b.total)+'명','Time B'],['최다 선택',leader?leader.label:'—','Top choice']].map(x=>'<div class="stat"><div class="label">'+esc(x[0])+'<span class="en-line" lang="en">'+esc(x[2])+'</span></div><div class="value">'+esc(x[1])+'</div></div>').join('');
+ $('desert-grid').innerHTML=[['A',a],['B',b]].map(([time,r])=>'<article class="desert-card"><header><h2>'+time+' 시간대 <span class="en-line" lang="en">Time '+time+'</span></h2></header><section class="slot"><h3>메인 <span class="en-line" lang="en">Main</span><span class="roster-status">'+r.main.length+' / 20</span></h3>'+desertTable(r.main,'main',20)+'</section><section class="slot"><h3>서브 <span class="en-line" lang="en">Sub</span><span class="roster-status">'+r.sub.length+' / 10</span></h3>'+desertTable(r.sub,'sub',10)+'</section>'+(r.wait.length?'<section class="slot"><h3>대기 <span class="en-line" lang="en">Waitlist</span><span class="roster-status">'+r.wait.length+'명</span></h3>'+desertTable(r.wait,'wait',r.wait.length)+'</section>':'')+'</article>').join('');
+}
+$('desert-power').onclick=()=>{desertMetric='power';renderDesert()};$('desert-weekly').onclick=()=>{desertMetric='weekly';renderDesert()};
+let syncing=false,pollTimer=null,loadRequest=null,collectorState='idle',loadResult=null;
+try{loadResult=JSON.parse(sessionStorage.getItem('lastwar-load-result')||'null');if(loadResult&&Date.now()-loadResult.at>60000)loadResult=null}catch(e){loadResult=null}
+const loadSettings={
+ home:{label:'총영투·연대 점수 불러오기',events:['heroPower','weeklyScore'],guide:'게임의 사막전장 탭과 연대 주간 점수 화면을 각각 다시 열어주세요. 두 패킷의 수신 상태가 아래에 표시됩니다.'},
+ season:{label:'시즌 점수 불러오기',events:['120021','120022','120023','120024'],guide:'게임의 시즌 공헌 순위 화면을 차례로 다시 열어주세요. 감지된 점수부터 바로 반영됩니다.'},
+ desert:{label:'DS 투표 불러오기',events:['dsVote'],guide:'채팅의 DS Battlefield 투표를 다시 열어주세요. 투표 패킷이 감지되면 참여 인원을 바로 편성합니다.'},
+ canyon:{label:'협곡 투표 불러오기',events:['csVote'],guide:'채팅의 CS Battlefield 투표를 다시 열어주세요. 투표 패킷이 감지되면 참여 인원을 바로 편성합니다.'}
+};
+function renderPacketSignals(){
+ const box=$('packet-signals');if(!box)return;let state=null;
+ if(page==='home')state=loadRequest?.page==='home'?loadRequest:loadResult?.page==='home'?loadResult:{received:[...(heroData.rows.length?['heroPower']:[]),...(weeklyData.rows.length?['weeklyScore']:[])]};
+ if(page==='desert'||page==='canyon')state={received:[...(heroData.rows.length?['heroPower']:[]),...(weeklyData.rows.length?['weeklyScore']:[])]};
+ box.hidden=page==='season'||!state;
+ box.querySelectorAll('[data-packet]').forEach(el=>el.classList.toggle('received',(state?.received||[]).includes(el.dataset.packet)));
+}
+function render(){
+ $('account-context').textContent=accountData.uid?'서버 '+accountData.serverId+' · 현재 연맹 '+(accountData.alliance||'확인 중')+(accountData.allianceName?' ('+accountData.allianceName+')':''):'현재 연맹 정보를 기다리는 중';
+ $('home-tab').setAttribute('aria-pressed',String(page==='home'));$('season-tab').setAttribute('aria-pressed',String(page==='season'));$('desert-tab').setAttribute('aria-pressed',String(page==='desert'));$('canyon-tab').setAttribute('aria-pressed',String(page==='canyon'));
+ if($('sync')&&!loadRequest)$('sync').textContent=loadSettings[page].label;
+ renderPacketSignals();
+ const battlefield=page==='desert'||page==='canyon';document.querySelectorAll('main>div.note,main>.tabs,main>.toolbar,main>.stats,main>.panel,main>footer').forEach(el=>el.hidden=battlefield);$('desert-page').hidden=!battlefield;
+ document.querySelector('h1').textContent=page==='home'?'총 영웅 전투력':page==='season'?'시즌 공헌':page==='canyon'?'협곡전장 편성':'DS Battlefield 편성';
+ document.querySelector('.intro').textContent=page==='home'?'연맹원들의 총 영웅 전투력을 확인하세요.':page==='season'?'상호 지원 · 공성 · 쟁탈전 · 처치 점수를 확인하세요.':page==='canyon'?'CS Battlefield 투표를 기준으로 A·B 시간대의 메인과 서브 인원을 편성합니다.':'DS Battlefield 투표를 기준으로 A·B 시간대의 메인과 서브 인원을 편성합니다.';
+ document.querySelector('main>div.note').hidden=page!=='season';
+ if(battlefield){const currentVote=battlefieldVote();$('updated-at').textContent=currentVote.capturedAt?'투표 수집 · '+new Date(currentVote.capturedAt).toLocaleString('ko-KR'):'';renderDesert();return}
+ $('updated-at').textContent=title(active)+' · '+new Date(eventTimes[active]).toLocaleString('ko-KR',{timeZone:'Asia/Seoul'})+' KST';
+ document.querySelectorAll('.tab').forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.event===active)));
+ $('rank-view').setAttribute('aria-pressed',String(view==='rank'));$('compare-view').setAttribute('aria-pressed',String(view==='compare'));
+ const filteredRows=filtered(),current=filteredRows.filter(r=>r.event===active),total=current.reduce((n,r)=>n+r.score,0),best=[...current].sort((a,b)=>b.score-a.score)[0];
+ $('stats').innerHTML=[['표시 멤버',fmt(current.length)+'명','선택한 목록 · 필터 기준'],['공헌 점수 합계',fmt(total),title(active)+' 안에서만 합산'],['평균 공헌 점수',current.length?fmt(Math.round(total/current.length)):'—','표시된 멤버 기준'],['최고 공헌 점수',best?fmt(best.score):'—',best?best.name:'검색 결과 없음']].map(a=>'<div class="stat"><div class="label">'+esc(a[0])+'</div><div class="value">'+esc(a[1])+'</div><div class="sub">'+esc(a[2])+'</div></div>').join('');
+ const sort=$('sort').value,sorter=(a,b)=>sort==='hero'?heroSort(a,b):sort==='power'?powerSort(a,b):sort==='name'?a.name.localeCompare(b.name,'ko'):sort==='low'?a.score-b.score:sort==='high'?b.score-a.score:a.rank-b.rank;
+ $('heading').textContent=view==='rank'?title(active):'연맹원 전투력 · 총영투 · 공헌 점수';
+ if(view==='rank'){
+  visible=[...current].sort(columnSort?columnCompare:sorter);$('thead').innerHTML='<tr><th>순위</th><th>멤버</th>'+sortHeader(active,'공헌 점수')+'</tr>';
+  $('tbody').innerHTML=visible.map(r=>'<tr><td class="rank">'+(r.rank<=3?'<span class="medal">'+r.rank+'</span>':fmt(r.rank))+'</td><td>'+cellName(r)+'</td><td class="num">'+fmt(r.score)+'<div class="bar"><i style="width:'+(best&&best.score?r.score/best.score*100:0)+'%"></i></div></td></tr>').join('');
+ }else{
+  const members=new Map();[...heroData.rows,...memberData.rows,...weeklyData.rows,...previousWeeklyData.rows].map(identity).filter(matchesFilter).forEach(r=>members.set(r.uid,{...r,entries:{}}));filteredRows.forEach(r=>{if(!members.has(r.uid))members.set(r.uid,{name:r.name,uid:r.uid,alliance:r.alliance,entries:{}});members.get(r.uid).entries[r.event]=r});
+  visible=[...members.values()].sort((a,b)=>{if(columnSort)return columnCompare(a,b);if(sort==='hero')return heroSort(a,b);if(sort==='power')return powerSort(a,b);if(sort==='name')return a.name.localeCompare(b.name,'ko');const x=a.entries[active],y=b.entries[active];if(!x)return y?1:0;if(!y)return -1;return sorter(x,y)});
+  $('thead').innerHTML='<tr><th>표시 순서</th><th>멤버</th>'+sortHeader('power','연맹원 전투력')+sortHeader('hero','총 영웅 전투력')+events.map(e=>sortHeader(e,title(e))).join('')+'</tr>';
+  $('tbody').innerHTML=visible.map((r,i)=>'<tr><td class="rank">'+fmt(i+1)+'</td><td>'+cellName(r)+'</td><td class="num">'+(memberMap.has(r.uid)?fmt(memberMap.get(r.uid).power):'<span class="meta">미확인</span>')+'</td><td class="num">'+(heroMap.has(r.uid)?'<strong>'+fmt(heroMap.get(r.uid).heroPower)+'</strong><div class="meta">'+(heroMap.get(r.uid).serverRank?'서버 '+fmt(heroMap.get(r.uid).serverRank)+'위':'사막전장')+'</div>':'<span class="meta">미확인</span>')+'</td>'+events.map(e=>'<td class="num">'+fmt(r.entries[e]?.score??0)+'</td>').join('')+'</tr>').join('');
+  const known=visible.filter(r=>heroMap.has(r.uid)),sum=known.reduce((n,r)=>n+heroMap.get(r.uid).heroPower,0);
+  const powerKnown=visible.filter(r=>memberMap.has(r.uid)),powerTotal=powerKnown.reduce((n,r)=>n+memberMap.get(r.uid).power,0);
+  $('stats').innerHTML=[['표시 인원',fmt(visible.length)+'명',$('alliance').value===memberData.alliance?'수집된 연맹원 명단 기준':'수집된 명단·순위 기준'],['총 영웅 전투력 확인',fmt(known.length)+'명','미확인 '+fmt(visible.length-known.length)+'명'],['총 영웅 전투력 합계',fmt(sum),'전투력이 확인된 인원 기준'],['연맹원 전투력 합계',fmt(powerTotal),'전투력 확인 '+fmt(powerKnown.length)+'명']].map(a=>'<div class="stat"><div class="label">'+esc(a[0])+'</div><div class="value">'+esc(a[1])+'</div><div class="sub">'+esc(a[2])+'</div></div>').join('');
+ }
+ $('heading').textContent=page==='home'?'총영투 · 이번주/지난주 연대 점수':'시즌 공헌 점수';
+ $('thead').innerHTML='<tr><th>표시 순서</th><th>멤버</th>'+(page==='home'?sortHeader('hero','총 영웅 전투력')+sortHeader('weekly','이번주 연대 점수')+sortHeader('previousWeekly','지난주 연대 점수'):events.map(e=>sortHeader(e,title(e))).join(''))+'</tr>';
+ $('tbody').innerHTML=visible.map((r,i)=>'<tr><td class="rank">'+fmt(i+1)+'</td><td>'+cellName(r)+'</td>'+(page==='home'?'<td class="num">'+(heroMap.has(r.uid)?'<strong>'+fmt(heroMap.get(r.uid).heroPower)+'</strong>':'미확인')+'</td><td class="num">'+fmt(weeklyMap.get(r.uid)?.score??0)+'</td><td class="num">'+fmt(previousWeeklyMap.get(r.uid)?.score??0)+'</td>':events.map(e=>'<td class="num">'+fmt(r.entries[e]?.score??0)+'</td>').join(''))+'</tr>').join('');
+ document.querySelector('.foot span').textContent='열 제목을 누르면 오름차순·내림차순으로 정렬됩니다.';
+ $('updated-at').textContent=page==='home'?'총영투 수집 · '+new Date(heroData.capturedAt).toLocaleString('ko-KR'):'';
+ $('count').textContent=fmt(visible.length)+'명 · '+($('alliance').value||'전체 연맹');
+ document.querySelector('footer').hidden=page==='home';
+ if(!visible.length)$('tbody').innerHTML='<tr><td colspan="'+(page==='season'?events.length+2:5)+'" class="empty">표시할 멤버 데이터가 없습니다.</td></tr>';
+}
+['search','alliance','sort'].forEach(id=>$(id).addEventListener(id==='search'?'input':'change',()=>{if(id==='sort'&&$('sort').value!=='column')columnSort=null;render()}));
+$('rank-view').onclick=()=>{view='rank';render()};$('compare-view').onclick=()=>{view='compare';render()};
+$('reset').onclick=()=>{$('search').value='';$('alliance').value='';$('sort').value='hero';columnSort=null;render()};
+$('export').onclick=()=>{
+ const matrix=view==='rank'?[['항목','순위','이름','점수','UID'],...visible.map(r=>[title(r.event),r.rank,r.name,r.score,r.uid])]:[['이름','UID','연맹원 전투력','총 영웅 전투력','총영투 서버 순위',...events.map(title)],...visible.map(r=>[r.name,r.uid,memberMap.get(r.uid)?.power??'',heroMap.get(r.uid)?.heroPower??'',heroMap.get(r.uid)?.serverRank??'',...events.map(e=>r.entries[e]?.score??0)])];
+ const quote=v=>'"'+String(typeof v==='string'&&/^[=+@\-\t\r]/.test(v)?"'"+v:v).replace(/"/g,'""')+'"';
+ const blob=new Blob(['\ufeff'+matrix.map(r=>r.map(quote).join(',')).join('\r\n')],{type:'text/csv;charset=utf-8'});const url=URL.createObjectURL(blob),a=document.createElement('a');a.href=url;a.download='lastwar-'+(view==='rank'?active:'comparison')+'.csv';a.click();setTimeout(()=>URL.revokeObjectURL(url),1000);
+};
+function selectPage(){const next=location.hash==='#season'?'season':location.hash==='#desert'?'desert':location.hash==='#canyon'?'canyon':'home',changed=next!==page;page=next;view='compare';columnSort=page==='season'?{key:events[0],direction:'desc'}:null;$('sort').value=page==='home'?'hero':'high';if(changed){loadRequest=null;sessionStorage.removeItem('lastwar-load-request')}render()}
+$('home-tab').onclick=()=>{location.hash='home'};$('season-tab').onclick=()=>{location.hash='season'};$('desert-tab').onclick=()=>{location.hash='desert'};$('canyon-tab').onclick=()=>{location.hash='canyon'};window.addEventListener('hashchange',selectPage);selectPage();
+$('copy-share').onclick=async()=>{
+ const button=$('copy-share'),feedback=$('share-feedback');button.disabled=true;feedback.textContent='';
+ try{
+  let url;
+  if(location.hostname==='localhost'||location.hostname==='127.0.0.1'){
+   const response=await fetch('/api/share-link',{cache:'no-store'});if(!response.ok)throw Error('공유 주소를 불러오지 못했습니다.');
+   ({url}=await response.json());if(!url)throw Error('아직 공유 링크가 없습니다.');
+  }else{
+   url=location.origin+location.pathname;
+  }
+  try{await navigator.clipboard.writeText(url)}catch(e){
+   const input=document.createElement('textarea');input.value=url;input.style.position='fixed';input.style.opacity='0';document.body.append(input);input.select();let copied=false;try{copied=document.execCommand('copy')}finally{input.remove()}if(!copied){window.prompt('아래 공유 주소를 복사하세요.',url);return}
+  }
+  feedback.textContent='복사했습니다!';
+ }catch(e){feedback.textContent=e.message}finally{button.disabled=false}
+};
+const pageUpdate=embeddedJson('last-update');
+const busyStates=['starting','capturing','processing','watching','waiting_game','reconnecting'];
+function setSyncMessage(message){const el=$('sync-status');if(el.dataset.message===message)return;el.dataset.message=message;el.textContent=message}
+function showSync(s){
+ const busy=busyStates.includes(s.state);syncing=busy;collectorState=s.state;$('sync').disabled=s.state==='starting';$('stop-sync').disabled=!busy;$('sync').textContent=loadRequest?'불러오는 중…':loadSettings[page].label;$('sync-progress').hidden=true;
+ let message='';
+ if(s.state==='starting')message='수집 준비 중입니다. Windows 권한 확인 창이 뜨면 허용해주세요.';
+ if(s.state==='capturing'){const left=Math.max(0,Math.ceil((new Date(s.until)-Date.now())/1000));$('sync-progress').value=60-left;message='수집 중 · '+left+'초 남음. 채팅의 DS Battlefield 투표와 사막전장 탭을 열어주세요.';}
+ if(s.state==='processing')message='수집이 끝났습니다. 순위 데이터를 정리하고 반영하고 있습니다.';
+ if(s.state==='watching')message=loadRequest?loadSettings[loadRequest.page].guide:'수집기 준비 완료 · 데이터 불러오기를 누르면 현재 탭에 필요한 게임 화면을 안내합니다.';
+ if(s.state==='waiting_game')message='게임 연결을 기다리고 있습니다. 게임에 접속한 뒤 '+loadSettings[(loadRequest&&loadRequest.page)||page].guide;
+ if(s.state==='reconnecting')message='수집 연결을 다시 확인하고 있습니다. 연결이 복구되면 자동으로 이어집니다.';
+ if(s.state==='stopped')message='상시 수집을 중지했습니다. 저장된 순위는 계속 볼 수 있습니다.';
+ if(s.state==='complete')message='갱신 완료 · '+String(s.detail||'').split(',').map(title).join(', ')+'. 열지 않은 항목은 이전 데이터를 유지합니다.';
+ if(s.state==='no_data')message='새 공헌 순위 응답이 없어 이전 데이터를 유지했습니다. 다시 수집하며 게임의 순위 탭을 열어주세요.';
+ if(s.state==='error')message='동기화를 완료하지 못했습니다. 게임 실행 상태와 Windows 권한 승인을 확인한 뒤 다시 시도해주세요.';
+ if(message)setSyncMessage(message);
+ const received=Array.isArray(s.lastUpdate?.events)?s.lastUpdate.events.map(String):[],freshForRequest=loadRequest&&Date.parse(s.lastUpdate?.capturedAt||0)>=loadRequest.startedAt-1000;
+ if(loadRequest){
+  if(freshForRequest)for(const event of received)if(loadSettings[loadRequest.page].events.includes(event)&&!loadRequest.received.includes(event))loadRequest.received.push(event);
+  const signalTimes=s.packetSignal?.eventTimes||{};
+  for(const event of loadSettings[loadRequest.page].events)if(Date.parse(signalTimes[event]||0)>=loadRequest.startedAt-1000&&!loadRequest.received.includes(event))loadRequest.received.push(event);
+  sessionStorage.setItem('lastwar-load-request',JSON.stringify(loadRequest));
+  renderPacketSignals();
+ }
+ const requestComplete=loadRequest&&loadSettings[loadRequest.page].events.every(e=>loadRequest.received.includes(e));
+ const partialUpdate=loadRequest&&freshForRequest&&received.some(event=>loadSettings[loadRequest.page].events.includes(event));
+ if(s.mode==='npcap'&&s.lastUpdate?.capturedAt&&s.lastUpdate.capturedAt!==pageUpdate&&(!loadRequest||partialUpdate)&&!window.npcapReloading){if(requestComplete){loadResult={page:loadRequest.page,received:[...loadRequest.received],at:Date.now()};sessionStorage.setItem('lastwar-load-result',JSON.stringify(loadResult));sessionStorage.removeItem('lastwar-load-request')}window.npcapReloading=true;sessionStorage.setItem('lastwar-filters',JSON.stringify({active,view,columnSort,desertMetric,search:$('search').value,alliance:$('alliance').value,sort:$('sort').value}));setTimeout(()=>location.reload(),100);}
+ return busy;
+}
+async function pollSync(){
+ clearTimeout(pollTimer);
+ try{const response=await fetch('/api/status',{cache:'no-store'});if(!response.ok)throw Error('status');const data=await response.json();if(showSync(data.status))pollTimer=setTimeout(pollSync,350);}
+ catch(e){setSyncMessage('로컬 서버 연결을 확인하고 있습니다…');pollTimer=setTimeout(pollSync,3000);}
+}
+$('sync').onclick=async()=>{
+ loadResult=null;sessionStorage.removeItem('lastwar-load-result');loadRequest={page,startedAt:Date.now(),received:[]};sessionStorage.setItem('lastwar-load-request',JSON.stringify(loadRequest));renderPacketSignals();$('sync').textContent='불러오는 중…';setSyncMessage(loadSettings[page].guide);
+ try{const info=await fetch('/api/status',{cache:'no-store'});if(!info.ok)throw Error('status');const data=await info.json();if(!busyStates.includes(data.status.state)){const response=await fetch('/api/collect',{method:'POST',headers:{'X-Collection-Token':data.token}});if(!response.ok&&response.status!==409)throw Error('start')}pollSync();}
+ catch(e){loadRequest=null;showSync({state:'error'});}
+};
+$('stop-sync').onclick=async()=>{try{$('stop-sync').disabled=true;const info=await fetch('/api/status',{cache:'no-store'});const data=await info.json();const r=await fetch('/api/stop',{method:'POST',headers:{'X-Collection-Token':data.token}});if(!r.ok)throw Error('stop');setSyncMessage('수집을 중지하고 있습니다…');pollSync()}catch(e){$('stop-sync').disabled=false;setSyncMessage('중지 요청을 전달하지 못했습니다. 다시 시도해주세요.')}};
+try{const saved=JSON.parse(sessionStorage.getItem('lastwar-filters')||'null');if(saved){if(events.includes(saved.active))active=saved.active;view=saved.view==='compare'?'compare':'rank';desertMetric=saved.desertMetric==='weekly'?'weekly':'power';$('search').value=saved.search||'';$('alliance').value=saved.alliance||'';$('sort').value=saved.sort||'rank';if(saved.columnSort&&['power','hero','weekly','previousWeekly',...events].includes(saved.columnSort.key)){columnSort=saved.columnSort;const o=document.createElement('option');o.value='column';o.textContent=(columnSort.key==='hero'?title('heroPower'):columnSort.key==='power'?title('memberPower'):title(columnSort.key))+(columnSort.direction==='asc'?' 낮은 순':' 높은 순');$('sort').append(o);$('sort').value='column'}sessionStorage.removeItem('lastwar-filters');render()}}catch(e){}
+try{const savedRequest=JSON.parse(sessionStorage.getItem('lastwar-load-request')||'null');if(savedRequest&&savedRequest.page===page&&Date.now()-savedRequest.startedAt<120000){loadRequest=savedRequest;render()}else sessionStorage.removeItem('lastwar-load-request')}catch(e){sessionStorage.removeItem('lastwar-load-request')}
+if(location.protocol==='http:')pollSync();else{$('sync').disabled=true;setSyncMessage('자동 수집은 http://localhost:8080 에서 사용할 수 있습니다.');}
+</script></body></html>

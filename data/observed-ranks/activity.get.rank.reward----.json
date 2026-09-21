@@ -1,0 +1,182 @@
+﻿{
+    "p":  {
+              "p":  {
+                        "activityId":  "29",
+                        "rewardList":  [
+                                           {
+                                               "reward":  [
+                                                              {
+                                                                  "type":  7,
+                                                                  "value":  {
+                                                                                "num":  1,
+                                                                                "id":  "2270000"
+                                                                            }
+                                                              },
+                                                              {
+                                                                  "type":  7,
+                                                                  "value":  {
+                                                                                "num":  1,
+                                                                                "id":  "700001"
+                                                                            }
+                                                              },
+                                                              {
+                                                                  "type":  7,
+                                                                  "value":  {
+                                                                                "num":  24,
+                                                                                "id":  "520002"
+                                                                            }
+                                                              },
+                                                              {
+                                                                  "type":  7,
+                                                                  "value":  {
+                                                                                "num":  24,
+                                                                                "id":  "520003"
+                                                                            }
+                                                              },
+                                                              {
+                                                                  "type":  7,
+                                                                  "value":  {
+                                                                                "num":  24,
+                                                                                "id":  "520004"
+                                                                            }
+                                                              }
+                                                          ],
+                                               "maxLv":  1,
+                                               "value":  3000,
+                                               "minLv":  1
+                                           },
+                                           {
+                                               "reward":  [
+                                                              {
+                                                                  "type":  7,
+                                                                  "value":  {
+                                                                                "num":  1,
+                                                                                "id":  "700001"
+                                                                            }
+                                                              },
+                                                              {
+                                                                  "type":  7,
+                                                                  "value":  {
+                                                                                "num":  18,
+                                                                                "id":  "520002"
+                                                                            }
+                                                              },
+                                                              {
+                                                                  "type":  7,
+                                                                  "value":  {
+                                                                                "num":  18,
+                                                                                "id":  "520003"
+                                                                            }
+                                                              },
+                                                              {
+                                                                  "type":  7,
+                                                                  "value":  {
+                                                                                "num":  18,
+                                                                                "id":  "520004"
+                                                                            }
+                                                              }
+                                                          ],
+                                               "maxLv":  2,
+                                               "value":  4000,
+                                               "minLv":  2
+                                           },
+                                           {
+                                               "reward":  [
+                                                              {
+                                                                  "type":  7,
+                                                                  "value":  {
+                                                                                "num":  1,
+                                                                                "id":  "700000"
+                                                                            }
+                                                              },
+                                                              {
+                                                                  "type":  7,
+                                                                  "value":  {
+                                                                                "num":  12,
+                                                                                "id":  "520002"
+                                                                            }
+                                                              },
+                                                              {
+                                                                  "type":  7,
+                                                                  "value":  {
+                                                                                "num":  12,
+                                                                                "id":  "520003"
+                                                                            }
+                                                              },
+                                                              {
+                                                                  "type":  7,
+                                                                  "value":  {
+                                                                                "num":  12,
+                                                                                "id":  "520004"
+                                                                            }
+                                                              }
+                                                          ],
+                                               "maxLv":  3,
+                                               "value":  5000,
+                                               "minLv":  3
+                                           },
+                                           {
+                                               "reward":  [
+                                                              {
+                                                                  "type":  7,
+                                                                  "value":  {
+                                                                                "num":  6,
+                                                                                "id":  "520002"
+                                                                            }
+                                                              },
+                                                              {
+                                                                  "type":  7,
+                                                                  "value":  {
+                                                                                "num":  6,
+                                                                                "id":  "520003"
+                                                                            }
+                                                              },
+                                                              {
+                                                                  "type":  7,
+                                                                  "value":  {
+                                                                                "num":  6,
+                                                                                "id":  "520004"
+                                                                            }
+                                                              }
+                                                          ],
+                                               "maxLv":  5,
+                                               "value":  6000,
+                                               "minLv":  4
+                                           },
+                                           {
+                                               "reward":  [
+                                                              {
+                                                                  "type":  7,
+                                                                  "value":  {
+                                                                                "num":  3,
+                                                                                "id":  "520002"
+                                                                            }
+                                                              },
+                                                              {
+                                                                  "type":  7,
+                                                                  "value":  {
+                                                                                "num":  3,
+                                                                                "id":  "520003"
+                                                                            }
+                                                              },
+                                                              {
+                                                                  "type":  7,
+                                                                  "value":  {
+                                                                                "num":  3,
+                                                                                "id":  "520004"
+                                                                            }
+                                                              }
+                                                          ],
+                                               "maxLv":  15,
+                                               "value":  7000,
+                                               "minLv":  6
+                                           }
+                                       ],
+                        "_id":  185,
+                        "_time":  5
+                    },
+              "c":  "activity.get.rank.reward"
+          },
+    "a":  13,
+    "c":  1
+}

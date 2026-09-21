@@ -1,0 +1,1894 @@
+﻿{
+    "p":  {
+              "p":  {
+                        "_id":  189,
+                        "_time":  5,
+                        "users":  [
+                                      {
+                                          "heroPower":  81719747,
+                                          "apply":  0,
+                                          "monthCardEndTime":  1776807132,
+                                          "lv":  30,
+                                          "pic":  "",
+                                          "serverId":  2009,
+                                          "picVer":  4,
+                                          "chooseTimeList":  [
+
+                                                             ],
+                                          "uid":  "1350762850002009",
+                                          "commander":  false,
+                                          "name":  "Sparta2966",
+                                          "armyPower":  52461891,
+                                          "power":  157637898,
+                                          "state":  2,
+                                          "group":  1
+                                      },
+                                      {
+                                          "heroPower":  109349668,
+                                          "apply":  0,
+                                          "monthCardEndTime":  1792201355,
+                                          "lv":  30,
+                                          "pic":  "",
+                                          "serverId":  2009,
+                                          "picVer":  281,
+                                          "chooseTimeList":  [
+
+                                                             ],
+                                          "uid":  "1670546139002009",
+                                          "commander":  false,
+                                          "name":  "OG COTN MFKER",
+                                          "armyPower":  56673213,
+                                          "power":  195299787,
+                                          "state":  1,
+                                          "group":  2
+                                      },
+                                      {
+                                          "heroPower":  99379983,
+                                          "apply":  0,
+                                          "monthCardEndTime":  1793326128,
+                                          "lv":  30,
+                                          "pic":  "",
+                                          "serverId":  2009,
+                                          "picVer":  86,
+                                          "chooseTimeList":  [
+
+                                                             ],
+                                          "uid":  "1862845445002009",
+                                          "commander":  false,
+                                          "name":  "DrDeadCatS",
+                                          "armyPower":  49692769,
+                                          "power":  176725121,
+                                          "state":  1,
+                                          "group":  2
+                                      },
+                                      {
+                                          "heroPower":  77974929,
+                                          "apply":  0,
+                                          "monthCardEndTime":  1790603962,
+                                          "lv":  30,
+                                          "pic":  "",
+                                          "serverId":  2009,
+                                          "picVer":  879,
+                                          "chooseTimeList":  [
+
+                                                             ],
+                                          "uid":  "1493440312002009",
+                                          "commander":  false,
+                                          "name":  "IArma XI",
+                                          "armyPower":  26024511,
+                                          "power":  129905888,
+                                          "state":  2,
+                                          "group":  2
+                                      },
+                                      {
+                                          "heroPower":  85736096,
+                                          "apply":  0,
+                                          "monthCardEndTime":  1776477775,
+                                          "lv":  30,
+                                          "pic":  "",
+                                          "serverId":  2009,
+                                          "picVer":  5,
+                                          "chooseTimeList":  [
+
+                                                             ],
+                                          "uid":  "1156831515002009",
+                                          "commander":  false,
+                                          "name":  "GhostTaxi  령",
+                                          "armyPower":  22551994,
+                                          "power":  134172086,
+                                          "state":  1,
+                                          "group":  1
+                                      },
+                                      {
+                                          "heroPower":  59913708,
+                                          "apply":  0,
+                                          "monthCardEndTime":  1792341892,
+                                          "lv":  30,
+                                          "pic":  "",
+                                          "serverId":  2009,
+                                          "picVer":  2,
+                                          "chooseTimeList":  [
+
+                                                             ],
+                                          "uid":  "1782850244002009",
+                                          "commander":  false,
+                                          "name":  "Santtos7",
+                                          "armyPower":  37010280,
+                                          "power":  115398342,
+                                          "state":  0,
+                                          "group":  0
+                                      },
+                                      {
+                                          "heroPower":  82819119,
+                                          "apply":  0,
+                                          "monthCardEndTime":  1790902403,
+                                          "lv":  30,
+                                          "pic":  "",
+                                          "serverId":  2009,
+                                          "picVer":  91,
+                                          "chooseTimeList":  [
+
+                                                             ],
+                                          "uid":  "1662911906002009",
+                                          "commander":  false,
+                                          "name":  "Gtoboi",
+                                          "armyPower":  50043119,
+                                          "power":  155035836,
+                                          "state":  1,
+                                          "group":  2
+                                      },
+                                      {
+                                          "heroPower":  89667271,
+                                          "apply":  0,
+                                          "monthCardEndTime":  1791686262,
+                                          "lv":  30,
+                                          "pic":  "",
+                                          "serverId":  2009,
+                                          "picVer":  74,
+                                          "chooseTimeList":  [
+
+                                                             ],
+                                          "uid":  "1155608505002009",
+                                          "commander":  false,
+                                          "name":  "Beat It",
+                                          "armyPower":  46076722,
+                                          "power":  160437347,
+                                          "state":  1,
+                                          "group":  1
+                                      },
+                                      {
+                                          "heroPower":  95350842,
+                                          "apply":  0,
+                                          "monthCardEndTime":  1792193493,
+                                          "lv":  30,
+                                          "pic":  "",
+                                          "serverId":  2009,
+                                          "picVer":  1,
+                                          "chooseTimeList":  [
+
+                                                             ],
+                                          "uid":  "1912489501002009",
+                                          "commander":  false,
+                                          "name":  "풀잎love",
+                                          "armyPower":  62429535,
+                                          "power":  184051676,
+                                          "state":  1,
+                                          "group":  2
+                                      },
+                                      {
+                                          "heroPower":  74197429,
+                                          "apply":  0,
+                                          "monthCardEndTime":  1790733649,
+                                          "lv":  30,
+                                          "pic":  "",
+                                          "serverId":  2009,
+                                          "picVer":  247,
+                                          "chooseTimeList":  [
+
+                                                             ],
+                                          "uid":  "1955890708002009",
+                                          "commander":  false,
+                                          "name":  "Nuke Doctor",
+                                          "armyPower":  47800881,
+                                          "power":  142167783,
+                                          "state":  2,
+                                          "group":  2
+                                      },
+                                      {
+                                          "heroPower":  79431049,
+                                          "apply":  0,
+                                          "monthCardEndTime":  1790438571,
+                                          "lv":  30,
+                                          "pic":  "",
+                                          "serverId":  2009,
+                                          "picVer":  108,
+                                          "chooseTimeList":  [
+
+                                                             ],
+                                          "uid":  "1207146206002009",
+                                          "commander":  false,
+                                          "name":  "NicocoLetsGoPSG",
+                                          "armyPower":  34829662,
+                                          "power":  137203404,
+                                          "state":  0,
+                                          "group":  0
+                                      },
+                                      {
+                                          "heroPower":  71396279,
+                                          "apply":  0,
+                                          "monthCardEndTime":  1790520705,
+                                          "lv":  30,
+                                          "pic":  "",
+                                          "serverId":  2009,
+                                          "picVer":  38,
+                                          "chooseTimeList":  [
+
+                                                             ],
+                                          "uid":  "2167178556002009",
+                                          "commander":  false,
+                                          "name":  "YïppeeKïYAY MF",
+                                          "armyPower":  50660538,
+                                          "power":  141952241,
+                                          "state":  0,
+                                          "group":  0
+                                      },
+                                      {
+                                          "heroPower":  98168785,
+                                          "apply":  0,
+                                          "monthCardEndTime":  1790499522,
+                                          "lv":  30,
+                                          "pic":  "",
+                                          "serverId":  2009,
+                                          "picVer":  67,
+                                          "chooseTimeList":  [
+
+                                                             ],
+                                          "uid":  "1039210403002009",
+                                          "commander":  false,
+                                          "name":  "보조개 Witch",
+                                          "armyPower":  64081686,
+                                          "power":  190238983,
+                                          "state":  2,
+                                          "group":  1
+                                      },
+                                      {
+                                          "heroPower":  86028620,
+                                          "apply":  0,
+                                          "monthCardEndTime":  1792505003,
+                                          "lv":  30,
+                                          "pic":  "",
+                                          "serverId":  2009,
+                                          "picVer":  90,
+                                          "chooseTimeList":  [
+
+                                                             ],
+                                          "uid":  "1955800939002009",
+                                          "commander":  false,
+                                          "name":  "Jenära",
+                                          "armyPower":  61819076,
+                                          "power":  170062498,
+                                          "state":  2,
+                                          "group":  1
+                                      },
+                                      {
+                                          "heroPower":  55313226,
+                                          "apply":  0,
+                                          "monthCardEndTime":  1791771037,
+                                          "lv":  30,
+                                          "pic":  "",
+                                          "serverId":  2009,
+                                          "picVer":  123,
+                                          "chooseTimeList":  [
+
+                                                             ],
+                                          "uid":  "1353411104002009",
+                                          "commander":  false,
+                                          "name":  "Crunk Jr",
+                                          "armyPower":  40926392,
+                                          "power":  112509376,
+                                          "state":  0,
+                                          "group":  0
+                                      },
+                                      {
+                                          "heroPower":  114025561,
+                                          "apply":  0,
+                                          "monthCardEndTime":  1794356716,
+                                          "lv":  30,
+                                          "pic":  "",
+                                          "serverId":  2009,
+                                          "picVer":  4217,
+                                          "chooseTimeList":  [
+
+                                                             ],
+                                          "uid":  "1955344177002009",
+                                          "commander":  false,
+                                          "name":  "BoffaDeezzz 両玉",
+                                          "armyPower":  69035652,
+                                          "power":  211195021,
+                                          "state":  1,
+                                          "group":  2
+                                      },
+                                      {
+                                          "heroPower":  77000433,
+                                          "apply":  0,
+                                          "monthCardEndTime":  1790455945,
+                                          "lv":  30,
+                                          "pic":  "",
+                                          "serverId":  2009,
+                                          "picVer":  2,
+                                          "chooseTimeList":  [
+
+                                                             ],
+                                          "uid":  "1252757549002009",
+                                          "commander":  false,
+                                          "name":  "호세카 hosecar",
+                                          "armyPower":  31395892,
+                                          "power":  132609405,
+                                          "state":  0,
+                                          "group":  0
+                                      },
+                                      {
+                                          "heroPower":  93701367,
+                                          "apply":  0,
+                                          "monthCardEndTime":  1790923179,
+                                          "lv":  30,
+                                          "pic":  "",
+                                          "serverId":  2009,
+                                          "picVer":  168,
+                                          "chooseTimeList":  [
+
+                                                             ],
+                                          "uid":  "1868610843002009",
+                                          "commander":  false,
+                                          "name":  "Dragonfly5280",
+                                          "armyPower":  57979341,
+                                          "power":  178812287,
+                                          "state":  2,
+                                          "group":  1
+                                      },
+                                      {
+                                          "heroPower":  108966976,
+                                          "apply":  0,
+                                          "monthCardEndTime":  1792980416,
+                                          "lv":  30,
+                                          "pic":  "",
+                                          "serverId":  2009,
+                                          "picVer":  952,
+                                          "chooseTimeList":  [
+
+                                                             ],
+                                          "uid":  "1956008371002009",
+                                          "commander":  false,
+                                          "name":  "TowPigy",
+                                          "armyPower":  32903195,
+                                          "power":  171313457,
+                                          "state":  1,
+                                          "group":  1
+                                      },
+                                      {
+                                          "heroPower":  64856505,
+                                          "apply":  0,
+                                          "monthCardEndTime":  1791400199,
+                                          "lv":  30,
+                                          "pic":  "",
+                                          "serverId":  2009,
+                                          "picVer":  719,
+                                          "chooseTimeList":  [
+
+                                                             ],
+                                          "uid":  "1171733078002009",
+                                          "commander":  false,
+                                          "name":  "FLuFFy 멍멍",
+                                          "armyPower":  40224681,
+                                          "power":  126302591,
+                                          "state":  0,
+                                          "group":  0
+                                      },
+                                      {
+                                          "heroPower":  86566848,
+                                          "apply":  1,
+                                          "monthCardEndTime":  1786483996,
+                                          "lv":  30,
+                                          "pic":  "",
+                                          "serverId":  2009,
+                                          "picVer":  1354,
+                                          "chooseTimeList":  [
+                                                                 1
+                                                             ],
+                                          "uid":  "1291183795002009",
+                                          "commander":  false,
+                                          "name":  "단비 FreeM",
+                                          "armyPower":  20153510,
+                                          "power":  132203383,
+                                          "state":  0,
+                                          "group":  0
+                                      },
+                                      {
+                                          "heroPower":  69984464,
+                                          "apply":  0,
+                                          "monthCardEndTime":  1790472834,
+                                          "lv":  30,
+                                          "pic":  "",
+                                          "serverId":  2009,
+                                          "picVer":  212,
+                                          "chooseTimeList":  [
+
+                                                             ],
+                                          "uid":  "2200388647002009",
+                                          "commander":  false,
+                                          "name":  "Tiffyspurg",
+                                          "armyPower":  41904335,
+                                          "power":  130845853,
+                                          "state":  0,
+                                          "group":  0
+                                      },
+                                      {
+                                          "heroPower":  52987671,
+                                          "apply":  0,
+                                          "monthCardEndTime":  1790396872,
+                                          "lv":  30,
+                                          "pic":  "",
+                                          "serverId":  2009,
+                                          "picVer":  31,
+                                          "chooseTimeList":  [
+
+                                                             ],
+                                          "uid":  "1169494008002001",
+                                          "commander":  false,
+                                          "name":  "Stephy0255",
+                                          "armyPower":  70595361,
+                                          "power":  144919187,
+                                          "state":  2,
+                                          "group":  2
+                                      },
+                                      {
+                                          "heroPower":  115085454,
+                                          "apply":  0,
+                                          "monthCardEndTime":  1790957928,
+                                          "lv":  30,
+                                          "pic":  "",
+                                          "serverId":  2009,
+                                          "picVer":  495,
+                                          "chooseTimeList":  [
+
+                                                             ],
+                                          "uid":  "1243686140002009",
+                                          "commander":  false,
+                                          "name":  "p0ppa",
+                                          "armyPower":  30634180,
+                                          "power":  173671809,
+                                          "state":  1,
+                                          "group":  1
+                                      },
+                                      {
+                                          "heroPower":  161770670,
+                                          "apply":  0,
+                                          "monthCardEndTime":  1791941606,
+                                          "lv":  30,
+                                          "pic":  "",
+                                          "serverId":  2009,
+                                          "picVer":  540,
+                                          "chooseTimeList":  [
+
+                                                             ],
+                                          "uid":  "1771461583002009",
+                                          "commander":  false,
+                                          "name":  "Taxan Killer 에릭",
+                                          "armyPower":  81149865,
+                                          "power":  289511424,
+                                          "state":  1,
+                                          "group":  2
+                                      },
+                                      {
+                                          "heroPower":  68687512,
+                                          "apply":  0,
+                                          "monthCardEndTime":  1790397501,
+                                          "lv":  30,
+                                          "pic":  "",
+                                          "serverId":  2009,
+                                          "picVer":  7,
+                                          "chooseTimeList":  [
+
+                                                             ],
+                                          "uid":  "1864788746002009",
+                                          "commander":  false,
+                                          "name":  "ChKnMcStu 卡津",
+                                          "armyPower":  52015275,
+                                          "power":  140404354,
+                                          "state":  2,
+                                          "group":  2
+                                      },
+                                      {
+                                          "heroPower":  87188040,
+                                          "apply":  0,
+                                          "monthCardEndTime":  1790597016,
+                                          "lv":  30,
+                                          "pic":  "",
+                                          "serverId":  2009,
+                                          "picVer":  1542,
+                                          "chooseTimeList":  [
+
+                                                             ],
+                                          "uid":  "1956372992002009",
+                                          "commander":  false,
+                                          "name":  "SilentCircus",
+                                          "armyPower":  58481396,
+                                          "power":  169463445,
+                                          "state":  2,
+                                          "group":  1
+                                      },
+                                      {
+                                          "heroPower":  116587933,
+                                          "apply":  0,
+                                          "monthCardEndTime":  1791737623,
+                                          "lv":  30,
+                                          "pic":  "",
+                                          "serverId":  2009,
+                                          "picVer":  212,
+                                          "chooseTimeList":  [
+
+                                                             ],
+                                          "uid":  "1924277001002009",
+                                          "commander":  false,
+                                          "name":  "EMPYRE",
+                                          "armyPower":  72203598,
+                                          "power":  216873425,
+                                          "state":  1,
+                                          "group":  2
+                                      },
+                                      {
+                                          "heroPower":  68808936,
+                                          "apply":  0,
+                                          "monthCardEndTime":  1792662740,
+                                          "lv":  30,
+                                          "pic":  "",
+                                          "serverId":  2009,
+                                          "picVer":  5,
+                                          "chooseTimeList":  [
+
+                                                             ],
+                                          "uid":  "1282191033001997",
+                                          "commander":  false,
+                                          "name":  "Masterball1",
+                                          "armyPower":  41484081,
+                                          "power":  131049185,
+                                          "state":  0,
+                                          "group":  0
+                                      },
+                                      {
+                                          "heroPower":  108256513,
+                                          "apply":  0,
+                                          "monthCardEndTime":  1792873361,
+                                          "lv":  30,
+                                          "pic":  "",
+                                          "serverId":  2009,
+                                          "picVer":  1401,
+                                          "chooseTimeList":  [
+
+                                                             ],
+                                          "uid":  "1412019391002009",
+                                          "commander":  false,
+                                          "name":  "BoffaDozzeee です",
+                                          "armyPower":  74556396,
+                                          "power":  212193425,
+                                          "state":  1,
+                                          "group":  2
+                                      },
+                                      {
+                                          "heroPower":  60308639,
+                                          "apply":  0,
+                                          "monthCardEndTime":  4294967295,
+                                          "lv":  29,
+                                          "pic":  "player_head_3",
+                                          "serverId":  2009,
+                                          "picVer":  0,
+                                          "chooseTimeList":  [
+
+                                                             ],
+                                          "uid":  "1724153165002009",
+                                          "commander":  false,
+                                          "name":  "Major Boom Shakalaka",
+                                          "armyPower":  20064084,
+                                          "power":  98300415,
+                                          "state":  0,
+                                          "group":  0
+                                      },
+                                      {
+                                          "heroPower":  99386333,
+                                          "apply":  0,
+                                          "monthCardEndTime":  1792203717,
+                                          "lv":  30,
+                                          "pic":  "",
+                                          "serverId":  2009,
+                                          "picVer":  759,
+                                          "chooseTimeList":  [
+
+                                                             ],
+                                          "uid":  "1249945547002009",
+                                          "commander":  false,
+                                          "name":  "IJONASI 이죠나시",
+                                          "armyPower":  59929389,
+                                          "power":  187665652,
+                                          "state":  1,
+                                          "group":  1
+                                      },
+                                      {
+                                          "heroPower":  69182671,
+                                          "apply":  0,
+                                          "monthCardEndTime":  1790794807,
+                                          "lv":  30,
+                                          "pic":  "",
+                                          "serverId":  2009,
+                                          "picVer":  81,
+                                          "chooseTimeList":  [
+
+                                                             ],
+                                          "uid":  "1895981985002009",
+                                          "commander":  false,
+                                          "name":  "Magician 쿠",
+                                          "armyPower":  43598143,
+                                          "power":  132406273,
+                                          "state":  0,
+                                          "group":  0
+                                      },
+                                      {
+                                          "heroPower":  71484842,
+                                          "apply":  1,
+                                          "monthCardEndTime":  1786328114,
+                                          "lv":  30,
+                                          "pic":  "",
+                                          "serverId":  2009,
+                                          "picVer":  82,
+                                          "chooseTimeList":  [
+                                                                 1
+                                                             ],
+                                          "uid":  "1909069627002009",
+                                          "commander":  false,
+                                          "name":  "zekai66",
+                                          "armyPower":  19420163,
+                                          "power":  112334267,
+                                          "state":  1,
+                                          "group":  1
+                                      },
+                                      {
+                                          "heroPower":  149695057,
+                                          "apply":  0,
+                                          "monthCardEndTime":  1796955872,
+                                          "lv":  30,
+                                          "pic":  "",
+                                          "serverId":  2009,
+                                          "picVer":  1255,
+                                          "chooseTimeList":  [
+
+                                                             ],
+                                          "uid":  "1955984446002009",
+                                          "commander":  false,
+                                          "name":  "Capt ジョシュ",
+                                          "armyPower":  74928618,
+                                          "power":  263482041,
+                                          "state":  1,
+                                          "group":  2
+                                      },
+                                      {
+                                          "heroPower":  56016225,
+                                          "apply":  0,
+                                          "monthCardEndTime":  1790396717,
+                                          "lv":  30,
+                                          "pic":  "",
+                                          "serverId":  2009,
+                                          "picVer":  3,
+                                          "chooseTimeList":  [
+
+                                                             ],
+                                          "uid":  "1648780819002009",
+                                          "commander":  false,
+                                          "name":  "Glockmeep",
+                                          "armyPower":  47968875,
+                                          "power":  120221543,
+                                          "state":  0,
+                                          "group":  0
+                                      },
+                                      {
+                                          "heroPower":  165075053,
+                                          "apply":  0,
+                                          "monthCardEndTime":  1791752284,
+                                          "lv":  30,
+                                          "pic":  "",
+                                          "serverId":  2009,
+                                          "picVer":  1,
+                                          "chooseTimeList":  [
+
+                                                             ],
+                                          "uid":  "1833496775002009",
+                                          "commander":  false,
+                                          "name":  "JSSJ2026",
+                                          "armyPower":  34886754,
+                                          "power":  242524296,
+                                          "state":  1,
+                                          "group":  2
+                                      },
+                                      {
+                                          "heroPower":  78428190,
+                                          "apply":  0,
+                                          "monthCardEndTime":  1790510366,
+                                          "lv":  30,
+                                          "pic":  "",
+                                          "serverId":  2009,
+                                          "picVer":  6,
+                                          "chooseTimeList":  [
+
+                                                             ],
+                                          "uid":  "1912186114002009",
+                                          "commander":  false,
+                                          "name":  "Kung Fu Yoda",
+                                          "armyPower":  36478367,
+                                          "power":  137910009,
+                                          "state":  0,
+                                          "group":  0
+                                      },
+                                      {
+                                          "heroPower":  45086260,
+                                          "apply":  0,
+                                          "monthCardEndTime":  4294967295,
+                                          "lv":  30,
+                                          "pic":  "",
+                                          "serverId":  2009,
+                                          "picVer":  4,
+                                          "chooseTimeList":  [
+
+                                                             ],
+                                          "uid":  "1880001838002009",
+                                          "commander":  false,
+                                          "name":  "카키kaki",
+                                          "armyPower":  13888285,
+                                          "power":  72514883,
+                                          "state":  0,
+                                          "group":  0
+                                      },
+                                      {
+                                          "heroPower":  76937371,
+                                          "apply":  0,
+                                          "monthCardEndTime":  1797820311,
+                                          "lv":  30,
+                                          "pic":  "",
+                                          "serverId":  2009,
+                                          "picVer":  19,
+                                          "chooseTimeList":  [
+
+                                                             ],
+                                          "uid":  "1955717408002009",
+                                          "commander":  false,
+                                          "name":  "Prome42",
+                                          "armyPower":  41058611,
+                                          "power":  140622133,
+                                          "state":  0,
+                                          "group":  0
+                                      },
+                                      {
+                                          "heroPower":  55903071,
+                                          "apply":  0,
+                                          "monthCardEndTime":  1792970488,
+                                          "lv":  30,
+                                          "pic":  "",
+                                          "serverId":  2009,
+                                          "picVer":  33,
+                                          "chooseTimeList":  [
+
+                                                             ],
+                                          "uid":  "1955815283002009",
+                                          "commander":  false,
+                                          "name":  "OGStoltz77",
+                                          "armyPower":  37944318,
+                                          "power":  113339069,
+                                          "state":  0,
+                                          "group":  0
+                                      },
+                                      {
+                                          "heroPower":  62248175,
+                                          "apply":  0,
+                                          "monthCardEndTime":  1792227457,
+                                          "lv":  30,
+                                          "pic":  "",
+                                          "serverId":  2009,
+                                          "picVer":  416,
+                                          "chooseTimeList":  [
+
+                                                             ],
+                                          "uid":  "1042924500002009",
+                                          "commander":  false,
+                                          "name":  "God   Of   War",
+                                          "armyPower":  46759523,
+                                          "power":  127376323,
+                                          "state":  0,
+                                          "group":  0
+                                      },
+                                      {
+                                          "heroPower":  96412252,
+                                          "apply":  0,
+                                          "monthCardEndTime":  1791225850,
+                                          "lv":  30,
+                                          "pic":  "",
+                                          "serverId":  2009,
+                                          "picVer":  1,
+                                          "chooseTimeList":  [
+
+                                                             ],
+                                          "uid":  "1881113463002009",
+                                          "commander":  false,
+                                          "name":  "Advillain",
+                                          "armyPower":  53501758,
+                                          "power":  173719340,
+                                          "state":  1,
+                                          "group":  2
+                                      },
+                                      {
+                                          "heroPower":  81867047,
+                                          "apply":  1,
+                                          "monthCardEndTime":  4294967295,
+                                          "lv":  30,
+                                          "pic":  "",
+                                          "serverId":  2009,
+                                          "picVer":  101,
+                                          "chooseTimeList":  [
+                                                                 3
+                                                             ],
+                                          "uid":  "1513152871002009",
+                                          "commander":  false,
+                                          "name":  "ADMIN V",
+                                          "armyPower":  49014686,
+                                          "power":  157041167,
+                                          "state":  1,
+                                          "group":  2
+                                      },
+                                      {
+                                          "heroPower":  139473295,
+                                          "apply":  0,
+                                          "monthCardEndTime":  1792451023,
+                                          "lv":  30,
+                                          "pic":  "",
+                                          "serverId":  2009,
+                                          "picVer":  2543,
+                                          "chooseTimeList":  [
+
+                                                             ],
+                                          "uid":  "1765321996002009",
+                                          "commander":  false,
+                                          "name":  "SawGun쏘우건",
+                                          "armyPower":  58927442,
+                                          "power":  238430883,
+                                          "state":  1,
+                                          "group":  1
+                                      },
+                                      {
+                                          "heroPower":  50479032,
+                                          "apply":  0,
+                                          "monthCardEndTime":  1790422172,
+                                          "lv":  30,
+                                          "pic":  "",
+                                          "serverId":  2009,
+                                          "picVer":  119,
+                                          "chooseTimeList":  [
+
+                                                             ],
+                                          "uid":  "1105149285002009",
+                                          "commander":  false,
+                                          "name":  "루이୨୧ louis",
+                                          "armyPower":  15946840,
+                                          "power":  82828832,
+                                          "state":  0,
+                                          "group":  0
+                                      },
+                                      {
+                                          "heroPower":  62998737,
+                                          "apply":  0,
+                                          "monthCardEndTime":  1792633046,
+                                          "lv":  30,
+                                          "pic":  "",
+                                          "serverId":  2009,
+                                          "picVer":  126,
+                                          "chooseTimeList":  [
+
+                                                             ],
+                                          "uid":  "1651408835002009",
+                                          "commander":  false,
+                                          "name":  "Tech100",
+                                          "armyPower":  30106694,
+                                          "power":  113986362,
+                                          "state":  2,
+                                          "group":  2
+                                      },
+                                      {
+                                          "heroPower":  72408760,
+                                          "apply":  0,
+                                          "monthCardEndTime":  1790401931,
+                                          "lv":  30,
+                                          "pic":  "",
+                                          "serverId":  2009,
+                                          "picVer":  70,
+                                          "chooseTimeList":  [
+
+                                                             ],
+                                          "uid":  "1915304141002009",
+                                          "commander":  false,
+                                          "name":  "Odogg20100",
+                                          "armyPower":  59184856,
+                                          "power":  152591877,
+                                          "state":  1,
+                                          "group":  2
+                                      },
+                                      {
+                                          "heroPower":  84863724,
+                                          "apply":  0,
+                                          "monthCardEndTime":  1792988277,
+                                          "lv":  30,
+                                          "pic":  "",
+                                          "serverId":  2009,
+                                          "picVer":  1930,
+                                          "chooseTimeList":  [
+
+                                                             ],
+                                          "uid":  "1284124114002009",
+                                          "commander":  false,
+                                          "name":  "Kîra 키라",
+                                          "armyPower":  57046895,
+                                          "power":  166276786,
+                                          "state":  1,
+                                          "group":  1
+                                      },
+                                      {
+                                          "heroPower":  86248702,
+                                          "apply":  0,
+                                          "monthCardEndTime":  1792381112,
+                                          "lv":  30,
+                                          "pic":  "",
+                                          "serverId":  2009,
+                                          "picVer":  53,
+                                          "chooseTimeList":  [
+
+                                                             ],
+                                          "uid":  "1501336988002009",
+                                          "commander":  false,
+                                          "name":  "Poochucker",
+                                          "armyPower":  49019661,
+                                          "power":  157449798,
+                                          "state":  2,
+                                          "group":  2
+                                      },
+                                      {
+                                          "heroPower":  75936024,
+                                          "apply":  0,
+                                          "monthCardEndTime":  1792473683,
+                                          "lv":  30,
+                                          "pic":  "",
+                                          "serverId":  2009,
+                                          "picVer":  12,
+                                          "chooseTimeList":  [
+
+                                                             ],
+                                          "uid":  "1217994156002009",
+                                          "commander":  false,
+                                          "name":  "5H13LDUR53LF",
+                                          "armyPower":  44049024,
+                                          "power":  142841852,
+                                          "state":  0,
+                                          "group":  0
+                                      },
+                                      {
+                                          "heroPower":  54703509,
+                                          "apply":  0,
+                                          "monthCardEndTime":  4294967295,
+                                          "lv":  30,
+                                          "pic":  "",
+                                          "serverId":  2009,
+                                          "picVer":  31,
+                                          "chooseTimeList":  [
+
+                                                             ],
+                                          "uid":  "1113719835002009",
+                                          "commander":  false,
+                                          "name":  "kdashh22",
+                                          "armyPower":  48213136,
+                                          "power":  120662920,
+                                          "state":  0,
+                                          "group":  0
+                                      },
+                                      {
+                                          "heroPower":  149742924,
+                                          "apply":  0,
+                                          "monthCardEndTime":  1795020041,
+                                          "lv":  30,
+                                          "pic":  "",
+                                          "serverId":  2009,
+                                          "picVer":  634,
+                                          "chooseTimeList":  [
+
+                                                             ],
+                                          "uid":  "1006520614002009",
+                                          "commander":  false,
+                                          "name":  "발록 balrog",
+                                          "armyPower":  75909052,
+                                          "power":  264906190,
+                                          "state":  1,
+                                          "group":  1
+                                      },
+                                      {
+                                          "heroPower":  68748875,
+                                          "apply":  0,
+                                          "monthCardEndTime":  1791165984,
+                                          "lv":  30,
+                                          "pic":  "",
+                                          "serverId":  2009,
+                                          "picVer":  1,
+                                          "chooseTimeList":  [
+
+                                                             ],
+                                          "uid":  "1908664231002009",
+                                          "commander":  false,
+                                          "name":  "Blood Angel AB",
+                                          "armyPower":  16132064,
+                                          "power":  107106945,
+                                          "state":  2,
+                                          "group":  2
+                                      },
+                                      {
+                                          "heroPower":  70837797,
+                                          "apply":  0,
+                                          "monthCardEndTime":  1790468914,
+                                          "lv":  30,
+                                          "pic":  "player_head_1",
+                                          "serverId":  2009,
+                                          "picVer":  0,
+                                          "chooseTimeList":  [
+
+                                                             ],
+                                          "uid":  "1672057584002009",
+                                          "commander":  false,
+                                          "name":  "johanssonfromthebtm",
+                                          "armyPower":  57569937,
+                                          "power":  148622769,
+                                          "state":  1,
+                                          "group":  2
+                                      },
+                                      {
+                                          "heroPower":  107204568,
+                                          "apply":  1,
+                                          "monthCardEndTime":  1792461838,
+                                          "lv":  30,
+                                          "pic":  "",
+                                          "serverId":  2009,
+                                          "picVer":  1589,
+                                          "chooseTimeList":  [
+                                                                 1
+                                                             ],
+                                          "uid":  "1759318546002009",
+                                          "commander":  false,
+                                          "name":  "원oneღ",
+                                          "armyPower":  17168328,
+                                          "power":  155467577,
+                                          "state":  1,
+                                          "group":  1
+                                      },
+                                      {
+                                          "heroPower":  86281640,
+                                          "apply":  1,
+                                          "monthCardEndTime":  1792365452,
+                                          "lv":  30,
+                                          "pic":  "",
+                                          "serverId":  2009,
+                                          "picVer":  167,
+                                          "chooseTimeList":  [
+                                                                 3
+                                                             ],
+                                          "uid":  "1243117540002009",
+                                          "commander":  false,
+                                          "name":  "MetalFace Stone",
+                                          "armyPower":  38964631,
+                                          "power":  149843357,
+                                          "state":  1,
+                                          "group":  2
+                                      },
+                                      {
+                                          "heroPower":  73638430,
+                                          "apply":  0,
+                                          "monthCardEndTime":  1791866541,
+                                          "lv":  30,
+                                          "pic":  "",
+                                          "serverId":  2009,
+                                          "picVer":  1,
+                                          "chooseTimeList":  [
+
+                                                             ],
+                                          "uid":  "1879664984002009",
+                                          "commander":  false,
+                                          "name":  "pretty 이쁜엿옹",
+                                          "armyPower":  63155017,
+                                          "power":  158139264,
+                                          "state":  2,
+                                          "group":  1
+                                      },
+                                      {
+                                          "heroPower":  63047565,
+                                          "apply":  0,
+                                          "monthCardEndTime":  1790899819,
+                                          "lv":  30,
+                                          "pic":  "",
+                                          "serverId":  2009,
+                                          "picVer":  6,
+                                          "chooseTimeList":  [
+
+                                                             ],
+                                          "uid":  "1783142248002009",
+                                          "commander":  false,
+                                          "name":  "Äāmøň",
+                                          "armyPower":  44088720,
+                                          "power":  125740548,
+                                          "state":  0,
+                                          "group":  0
+                                      },
+                                      {
+                                          "heroPower":  87116832,
+                                          "apply":  0,
+                                          "monthCardEndTime":  1792890413,
+                                          "lv":  30,
+                                          "pic":  "",
+                                          "serverId":  2009,
+                                          "picVer":  123,
+                                          "chooseTimeList":  [
+
+                                                             ],
+                                          "uid":  "1954642487002009",
+                                          "commander":  false,
+                                          "name":  "StunnerOtis",
+                                          "armyPower":  48964716,
+                                          "power":  158866936,
+                                          "state":  1,
+                                          "group":  2
+                                      },
+                                      {
+                                          "heroPower":  105673180,
+                                          "apply":  0,
+                                          "monthCardEndTime":  1791841881,
+                                          "lv":  30,
+                                          "pic":  "",
+                                          "serverId":  2009,
+                                          "picVer":  119,
+                                          "chooseTimeList":  [
+
+                                                             ],
+                                          "uid":  "1955858114002009",
+                                          "commander":  false,
+                                          "name":  "Guapo III",
+                                          "armyPower":  62711382,
+                                          "power":  196478010,
+                                          "state":  1,
+                                          "group":  1
+                                      },
+                                      {
+                                          "heroPower":  94712276,
+                                          "apply":  0,
+                                          "monthCardEndTime":  1790400768,
+                                          "lv":  30,
+                                          "pic":  "",
+                                          "serverId":  2009,
+                                          "picVer":  85,
+                                          "chooseTimeList":  [
+
+                                                             ],
+                                          "uid":  "1220371996002009",
+                                          "commander":  false,
+                                          "name":  "Xxpacifist",
+                                          "armyPower":  25963308,
+                                          "power":  146165369,
+                                          "state":  1,
+                                          "group":  2
+                                      },
+                                      {
+                                          "heroPower":  109856879,
+                                          "apply":  0,
+                                          "monthCardEndTime":  1790421957,
+                                          "lv":  30,
+                                          "pic":  "",
+                                          "serverId":  2009,
+                                          "picVer":  34,
+                                          "chooseTimeList":  [
+
+                                                             ],
+                                          "uid":  "1906030159002009",
+                                          "commander":  false,
+                                          "name":  "플래티넘TH",
+                                          "armyPower":  46494284,
+                                          "power":  185421709,
+                                          "state":  1,
+                                          "group":  1
+                                      },
+                                      {
+                                          "heroPower":  93608870,
+                                          "apply":  0,
+                                          "monthCardEndTime":  1792029643,
+                                          "lv":  30,
+                                          "pic":  "",
+                                          "serverId":  2009,
+                                          "picVer":  352,
+                                          "chooseTimeList":  [
+
+                                                             ],
+                                          "uid":  "1550635285002009",
+                                          "commander":  false,
+                                          "name":  "Pennah",
+                                          "armyPower":  66557602,
+                                          "power":  187191778,
+                                          "state":  2,
+                                          "group":  1
+                                      },
+                                      {
+                                          "heroPower":  81827551,
+                                          "apply":  0,
+                                          "monthCardEndTime":  1782747054,
+                                          "lv":  30,
+                                          "pic":  "player_head_3",
+                                          "serverId":  2009,
+                                          "picVer":  0,
+                                          "chooseTimeList":  [
+
+                                                             ],
+                                          "uid":  "1882477040002009",
+                                          "commander":  false,
+                                          "name":  "IveGotBeef 햄버거",
+                                          "armyPower":  19291568,
+                                          "power":  124084412,
+                                          "state":  0,
+                                          "group":  0
+                                      },
+                                      {
+                                          "heroPower":  67699070,
+                                          "apply":  0,
+                                          "monthCardEndTime":  1780334080,
+                                          "lv":  30,
+                                          "pic":  "",
+                                          "serverId":  2009,
+                                          "picVer":  5,
+                                          "chooseTimeList":  [
+
+                                                             ],
+                                          "uid":  "1418400186002009",
+                                          "commander":  false,
+                                          "name":  "WheresDaBeef 암소",
+                                          "armyPower":  11982758,
+                                          "power":  99824903,
+                                          "state":  0,
+                                          "group":  0
+                                      },
+                                      {
+                                          "heroPower":  52216173,
+                                          "apply":  0,
+                                          "monthCardEndTime":  4294967295,
+                                          "lv":  30,
+                                          "pic":  "",
+                                          "serverId":  2009,
+                                          "picVer":  117,
+                                          "chooseTimeList":  [
+
+                                                             ],
+                                          "uid":  "1955840422002009",
+                                          "commander":  false,
+                                          "name":  "Juniper Skye MurrOW",
+                                          "armyPower":  42598797,
+                                          "power":  112515103,
+                                          "state":  0,
+                                          "group":  0
+                                      },
+                                      {
+                                          "heroPower":  98233722,
+                                          "apply":  0,
+                                          "monthCardEndTime":  1790396468,
+                                          "lv":  30,
+                                          "pic":  "",
+                                          "serverId":  2009,
+                                          "picVer":  359,
+                                          "chooseTimeList":  [
+
+                                                             ],
+                                          "uid":  "1238891291002009",
+                                          "commander":  false,
+                                          "name":  "뚤ddulღ",
+                                          "armyPower":  36163536,
+                                          "power":  163108121,
+                                          "state":  1,
+                                          "group":  2
+                                      },
+                                      {
+                                          "heroPower":  86184881,
+                                          "apply":  0,
+                                          "monthCardEndTime":  1790398330,
+                                          "lv":  30,
+                                          "pic":  "",
+                                          "serverId":  2009,
+                                          "picVer":  102,
+                                          "chooseTimeList":  [
+
+                                                             ],
+                                          "uid":  "1018658388002009",
+                                          "commander":  false,
+                                          "name":  "LĘE Şeúng Ĥun",
+                                          "armyPower":  57818444,
+                                          "power":  166423782,
+                                          "state":  1,
+                                          "group":  1
+                                      },
+                                      {
+                                          "heroPower":  71383842,
+                                          "apply":  0,
+                                          "monthCardEndTime":  1790422789,
+                                          "lv":  30,
+                                          "pic":  "",
+                                          "serverId":  2009,
+                                          "picVer":  29,
+                                          "chooseTimeList":  [
+
+                                                             ],
+                                          "uid":  "1408507824002009",
+                                          "commander":  false,
+                                          "name":  "Porkchop Warrior",
+                                          "armyPower":  64645291,
+                                          "power":  157850125,
+                                          "state":  2,
+                                          "group":  1
+                                      },
+                                      {
+                                          "heroPower":  91677689,
+                                          "apply":  0,
+                                          "monthCardEndTime":  1790692549,
+                                          "lv":  30,
+                                          "pic":  "",
+                                          "serverId":  2009,
+                                          "picVer":  218,
+                                          "chooseTimeList":  [
+
+                                                             ],
+                                          "uid":  "1042263425002009",
+                                          "commander":  false,
+                                          "name":  "Kor Devil",
+                                          "armyPower":  24479535,
+                                          "power":  144378932,
+                                          "state":  1,
+                                          "group":  1
+                                      },
+                                      {
+                                          "heroPower":  90905009,
+                                          "apply":  0,
+                                          "monthCardEndTime":  1791525381,
+                                          "lv":  30,
+                                          "pic":  "",
+                                          "serverId":  2009,
+                                          "picVer":  735,
+                                          "chooseTimeList":  [
+
+                                                             ],
+                                          "uid":  "1066495923002009",
+                                          "commander":  false,
+                                          "name":  "KANG편돌",
+                                          "armyPower":  55604279,
+                                          "power":  173110894,
+                                          "state":  1,
+                                          "group":  1
+                                      },
+                                      {
+                                          "heroPower":  81925719,
+                                          "apply":  0,
+                                          "monthCardEndTime":  1792929151,
+                                          "lv":  30,
+                                          "pic":  "",
+                                          "serverId":  2009,
+                                          "picVer":  17,
+                                          "chooseTimeList":  [
+
+                                                             ],
+                                          "uid":  "1398218860002009",
+                                          "commander":  false,
+                                          "name":  "Junior Vorani",
+                                          "armyPower":  42250457,
+                                          "power":  147763839,
+                                          "state":  1,
+                                          "group":  1
+                                      },
+                                      {
+                                          "heroPower":  107320701,
+                                          "apply":  0,
+                                          "monthCardEndTime":  1791668388,
+                                          "lv":  30,
+                                          "pic":  "",
+                                          "serverId":  2009,
+                                          "picVer":  454,
+                                          "chooseTimeList":  [
+
+                                                             ],
+                                          "uid":  "1710268967002009",
+                                          "commander":  false,
+                                          "name":  "PALBL0",
+                                          "armyPower":  13592274,
+                                          "power":  148830460,
+                                          "state":  2,
+                                          "group":  2
+                                      },
+                                      {
+                                          "heroPower":  48421270,
+                                          "apply":  0,
+                                          "monthCardEndTime":  4294967295,
+                                          "lv":  29,
+                                          "pic":  "",
+                                          "serverId":  2009,
+                                          "picVer":  10,
+                                          "chooseTimeList":  [
+
+                                                             ],
+                                          "uid":  "2168179349002009",
+                                          "commander":  false,
+                                          "name":  "PORKYWAFFLE",
+                                          "armyPower":  22755525,
+                                          "power":  87845968,
+                                          "state":  0,
+                                          "group":  0
+                                      },
+                                      {
+                                          "heroPower":  53258578,
+                                          "apply":  0,
+                                          "monthCardEndTime":  1790871350,
+                                          "lv":  30,
+                                          "pic":  "",
+                                          "serverId":  2009,
+                                          "picVer":  16,
+                                          "chooseTimeList":  [
+
+                                                             ],
+                                          "uid":  "1086099410002001",
+                                          "commander":  false,
+                                          "name":  "Ravėn",
+                                          "armyPower":  24989472,
+                                          "power":  94772807,
+                                          "state":  0,
+                                          "group":  0
+                                      },
+                                      {
+                                          "heroPower":  83412802,
+                                          "apply":  0,
+                                          "monthCardEndTime":  1791724030,
+                                          "lv":  30,
+                                          "pic":  "",
+                                          "serverId":  2009,
+                                          "picVer":  642,
+                                          "chooseTimeList":  [
+
+                                                             ],
+                                          "uid":  "1798612518002009",
+                                          "commander":  false,
+                                          "name":  "Abz ツ",
+                                          "armyPower":  31160371,
+                                          "power":  137142357,
+                                          "state":  0,
+                                          "group":  0
+                                      },
+                                      {
+                                          "heroPower":  64789389,
+                                          "apply":  0,
+                                          "monthCardEndTime":  1791944616,
+                                          "lv":  30,
+                                          "pic":  "",
+                                          "serverId":  2009,
+                                          "picVer":  1,
+                                          "chooseTimeList":  [
+
+                                                             ],
+                                          "uid":  "1428508013002009",
+                                          "commander":  false,
+                                          "name":  "Kredio",
+                                          "armyPower":  24388336,
+                                          "power":  107816942,
+                                          "state":  1,
+                                          "group":  1
+                                      },
+                                      {
+                                          "heroPower":  45695784,
+                                          "apply":  0,
+                                          "monthCardEndTime":  1791764540,
+                                          "lv":  30,
+                                          "pic":  "",
+                                          "serverId":  2009,
+                                          "picVer":  38,
+                                          "chooseTimeList":  [
+
+                                                             ],
+                                          "uid":  "1127048012002009",
+                                          "commander":  false,
+                                          "name":  "Nvsuccess",
+                                          "armyPower":  41368496,
+                                          "power":  102418682,
+                                          "state":  1,
+                                          "group":  1
+                                      },
+                                      {
+                                          "heroPower":  82056652,
+                                          "apply":  0,
+                                          "monthCardEndTime":  1791681717,
+                                          "lv":  30,
+                                          "pic":  "",
+                                          "serverId":  2009,
+                                          "picVer":  1,
+                                          "chooseTimeList":  [
+
+                                                             ],
+                                          "uid":  "1339444241002009",
+                                          "commander":  false,
+                                          "name":  "Asmodean76",
+                                          "armyPower":  63566156,
+                                          "power":  170888934,
+                                          "state":  2,
+                                          "group":  1
+                                      },
+                                      {
+                                          "heroPower":  102529352,
+                                          "apply":  1,
+                                          "monthCardEndTime":  1793969736,
+                                          "lv":  30,
+                                          "pic":  "",
+                                          "serverId":  2009,
+                                          "picVer":  231,
+                                          "chooseTimeList":  [
+                                                                 1
+                                                             ],
+                                          "uid":  "1687239939002009",
+                                          "commander":  false,
+                                          "name":  "중융JUNGღ",
+                                          "armyPower":  56401454,
+                                          "power":  188543990,
+                                          "state":  1,
+                                          "group":  1
+                                      },
+                                      {
+                                          "heroPower":  62854264,
+                                          "apply":  0,
+                                          "monthCardEndTime":  1790473165,
+                                          "lv":  30,
+                                          "pic":  "",
+                                          "serverId":  2009,
+                                          "picVer":  157,
+                                          "chooseTimeList":  [
+
+                                                             ],
+                                          "uid":  "1955756618002009",
+                                          "commander":  false,
+                                          "name":  "tēēj",
+                                          "armyPower":  49375015,
+                                          "power":  130860240,
+                                          "state":  0,
+                                          "group":  0
+                                      },
+                                      {
+                                          "heroPower":  70591439,
+                                          "apply":  0,
+                                          "monthCardEndTime":  1790469114,
+                                          "lv":  30,
+                                          "pic":  "",
+                                          "serverId":  2009,
+                                          "picVer":  287,
+                                          "chooseTimeList":  [
+
+                                                             ],
+                                          "uid":  "1956065017002009",
+                                          "commander":  false,
+                                          "name":  "Binxxxyy",
+                                          "armyPower":  46490282,
+                                          "power":  136758514,
+                                          "state":  0,
+                                          "group":  0
+                                      },
+                                      {
+                                          "heroPower":  61582922,
+                                          "apply":  0,
+                                          "monthCardEndTime":  1791713895,
+                                          "lv":  30,
+                                          "pic":  "",
+                                          "serverId":  2009,
+                                          "picVer":  4,
+                                          "chooseTimeList":  [
+
+                                                             ],
+                                          "uid":  "1181086471002009",
+                                          "commander":  false,
+                                          "name":  "카두바 caduba",
+                                          "armyPower":  31187538,
+                                          "power":  111176430,
+                                          "state":  0,
+                                          "group":  0
+                                      },
+                                      {
+                                          "heroPower":  47103530,
+                                          "apply":  0,
+                                          "monthCardEndTime":  1792619111,
+                                          "lv":  30,
+                                          "pic":  "",
+                                          "serverId":  2009,
+                                          "picVer":  2,
+                                          "chooseTimeList":  [
+
+                                                             ],
+                                          "uid":  "1841136973002009",
+                                          "commander":  false,
+                                          "name":  "junior1087",
+                                          "armyPower":  37637367,
+                                          "power":  103644467,
+                                          "state":  0,
+                                          "group":  0
+                                      },
+                                      {
+                                          "heroPower":  89730309,
+                                          "apply":  0,
+                                          "monthCardEndTime":  1790396391,
+                                          "lv":  30,
+                                          "pic":  "",
+                                          "serverId":  2009,
+                                          "picVer":  1383,
+                                          "chooseTimeList":  [
+
+                                                             ],
+                                          "uid":  "1683911371002009",
+                                          "commander":  false,
+                                          "name":  "Random word",
+                                          "armyPower":  58777421,
+                                          "power":  175224441,
+                                          "state":  1,
+                                          "group":  2
+                                      },
+                                      {
+                                          "heroPower":  69849506,
+                                          "apply":  0,
+                                          "monthCardEndTime":  1792431293,
+                                          "lv":  30,
+                                          "pic":  "",
+                                          "serverId":  2009,
+                                          "picVer":  38,
+                                          "chooseTimeList":  [
+
+                                                             ],
+                                          "uid":  "1112205467002009",
+                                          "commander":  false,
+                                          "name":  "TheeNAMEless",
+                                          "armyPower":  43742673,
+                                          "power":  134600540,
+                                          "state":  0,
+                                          "group":  0
+                                      },
+                                      {
+                                          "heroPower":  69728689,
+                                          "apply":  0,
+                                          "monthCardEndTime":  1792101118,
+                                          "lv":  30,
+                                          "pic":  "",
+                                          "serverId":  2009,
+                                          "picVer":  28,
+                                          "chooseTimeList":  [
+
+                                                             ],
+                                          "uid":  "1032401035002009",
+                                          "commander":  false,
+                                          "name":  "볼보 8115 volvo",
+                                          "armyPower":  17458975,
+                                          "power":  105656346,
+                                          "state":  0,
+                                          "group":  0
+                                      },
+                                      {
+                                          "heroPower":  70178288,
+                                          "apply":  0,
+                                          "monthCardEndTime":  1790729970,
+                                          "lv":  30,
+                                          "pic":  "",
+                                          "serverId":  2009,
+                                          "picVer":  2,
+                                          "chooseTimeList":  [
+
+                                                             ],
+                                          "uid":  "1465387733002009",
+                                          "commander":  false,
+                                          "name":  "Sal51",
+                                          "armyPower":  38662922,
+                                          "power":  131003292,
+                                          "state":  0,
+                                          "group":  0
+                                      },
+                                      {
+                                          "heroPower":  52335292,
+                                          "apply":  0,
+                                          "monthCardEndTime":  1790994837,
+                                          "lv":  28,
+                                          "pic":  "",
+                                          "serverId":  2009,
+                                          "picVer":  13,
+                                          "chooseTimeList":  [
+
+                                                             ],
+                                          "uid":  "1597493214002001",
+                                          "commander":  false,
+                                          "name":  "Lord Hulkster",
+                                          "armyPower":  40488344,
+                                          "power":  112181749,
+                                          "state":  0,
+                                          "group":  0
+                                      },
+                                      {
+                                          "heroPower":  77804257,
+                                          "apply":  0,
+                                          "monthCardEndTime":  1792069912,
+                                          "lv":  30,
+                                          "pic":  "",
+                                          "serverId":  2009,
+                                          "picVer":  98,
+                                          "chooseTimeList":  [
+
+                                                             ],
+                                          "uid":  "1621795100002009",
+                                          "commander":  false,
+                                          "name":  "ElusiveSavvy",
+                                          "armyPower":  66436686,
+                                          "power":  166503072,
+                                          "state":  2,
+                                          "group":  1
+                                      },
+                                      {
+                                          "heroPower":  65611116,
+                                          "apply":  0,
+                                          "monthCardEndTime":  1799280276,
+                                          "lv":  30,
+                                          "pic":  "player_head_1",
+                                          "serverId":  2009,
+                                          "picVer":  0,
+                                          "chooseTimeList":  [
+
+                                                             ],
+                                          "uid":  "1230726778002009",
+                                          "commander":  false,
+                                          "name":  "Versace club",
+                                          "armyPower":  49069488,
+                                          "power":  136124566,
+                                          "state":  0,
+                                          "group":  0
+                                      },
+                                      {
+                                          "heroPower":  88229819,
+                                          "apply":  0,
+                                          "monthCardEndTime":  1792249444,
+                                          "lv":  30,
+                                          "pic":  "",
+                                          "serverId":  2009,
+                                          "picVer":  121,
+                                          "chooseTimeList":  [
+
+                                                             ],
+                                          "uid":  "1335516399002009",
+                                          "commander":  false,
+                                          "name":  "Stinkyf33t",
+                                          "armyPower":  39890380,
+                                          "power":  153641258,
+                                          "state":  1,
+                                          "group":  2
+                                      },
+                                      {
+                                          "heroPower":  50214511,
+                                          "apply":  0,
+                                          "monthCardEndTime":  1790423834,
+                                          "lv":  30,
+                                          "pic":  "",
+                                          "serverId":  2009,
+                                          "picVer":  87,
+                                          "chooseTimeList":  [
+
+                                                             ],
+                                          "uid":  "1418302934002009",
+                                          "commander":  false,
+                                          "name":  "AccuracY",
+                                          "armyPower":  4735059,
+                                          "power":  69956301,
+                                          "state":  0,
+                                          "group":  0
+                                      },
+                                      {
+                                          "heroPower":  74465294,
+                                          "apply":  0,
+                                          "monthCardEndTime":  1793004828,
+                                          "lv":  30,
+                                          "pic":  "",
+                                          "serverId":  2009,
+                                          "picVer":  399,
+                                          "chooseTimeList":  [
+
+                                                             ],
+                                          "uid":  "1396639825002009",
+                                          "commander":  false,
+                                          "name":  "VenomVisíon",
+                                          "armyPower":  46200512,
+                                          "power":  143062697,
+                                          "state":  2,
+                                          "group":  2
+                                      },
+                                      {
+                                          "heroPower":  48254551,
+                                          "apply":  0,
+                                          "monthCardEndTime":  1790426260,
+                                          "lv":  29,
+                                          "pic":  "",
+                                          "serverId":  2009,
+                                          "picVer":  118,
+                                          "chooseTimeList":  [
+
+                                                             ],
+                                          "uid":  "1794408508002009",
+                                          "commander":  false,
+                                          "name":  "STRATIX 360",
+                                          "armyPower":  52000624,
+                                          "power":  117577633,
+                                          "state":  0,
+                                          "group":  0
+                                      },
+                                      {
+                                          "heroPower":  98904285,
+                                          "apply":  0,
+                                          "monthCardEndTime":  1791857297,
+                                          "lv":  30,
+                                          "pic":  "",
+                                          "serverId":  2009,
+                                          "picVer":  680,
+                                          "chooseTimeList":  [
+
+                                                             ],
+                                          "uid":  "1956097545002009",
+                                          "commander":  false,
+                                          "name":  "ESPN LIES 69",
+                                          "armyPower":  55822528,
+                                          "power":  181631539,
+                                          "state":  1,
+                                          "group":  1
+                                      },
+                                      {
+                                          "heroPower":  81104533,
+                                          "apply":  0,
+                                          "monthCardEndTime":  4294967295,
+                                          "lv":  30,
+                                          "pic":  "",
+                                          "serverId":  2009,
+                                          "picVer":  12,
+                                          "chooseTimeList":  [
+
+                                                             ],
+                                          "uid":  "1955909125002009",
+                                          "commander":  false,
+                                          "name":  "Brbsmoke",
+                                          "armyPower":  22810171,
+                                          "power":  127257014,
+                                          "state":  2,
+                                          "group":  2
+                                      },
+                                      {
+                                          "heroPower":  49764603,
+                                          "apply":  0,
+                                          "monthCardEndTime":  1789998313,
+                                          "lv":  29,
+                                          "pic":  "",
+                                          "serverId":  2009,
+                                          "picVer":  1,
+                                          "chooseTimeList":  [
+
+                                                             ],
+                                          "uid":  "1047789677002009",
+                                          "commander":  false,
+                                          "name":  "Fugarewe",
+                                          "armyPower":  41144199,
+                                          "power":  106982916,
+                                          "state":  0,
+                                          "group":  0
+                                      }
+                                  ]
+                    },
+              "c":  "dragon.assign.player.info"
+          },
+    "a":  13,
+    "c":  1
+}

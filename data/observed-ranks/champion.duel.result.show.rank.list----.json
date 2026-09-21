@@ -1,0 +1,12 @@
+﻿{
+    "p":  {
+              "p":  {
+                        "success":  true,
+                        "_id":  1865,
+                        "_time":  0
+                    },
+              "c":  "champion.duel.result.show.rank.list"
+          },
+    "a":  13,
+    "c":  1
+}
